@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/marindave04/DSA/tree/master/0053-maximum-subarray) |
+| [0075-sort-colors](https://github.com/marindave04/DSA/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/marindave04/DSA/tree/master/0136-single-number) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/marindave04/DSA/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 ## Bit Manipulation
@@ -32,6 +33,11 @@
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/marindave04/DSA/tree/master/0075-sort-colors) |
 | [0242-valid-anagram](https://github.com/marindave04/DSA/tree/master/0242-valid-anagram) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/marindave04/DSA/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+## Two Pointers
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/marindave04/DSA/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
