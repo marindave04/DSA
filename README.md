@@ -8,6 +8,7 @@
 | [0075-sort-colors](https://github.com/marindave04/DSA/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/marindave04/DSA/tree/master/0136-single-number) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/marindave04/DSA/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/marindave04/DSA/tree/master/2271-rearrange-array-elements-by-sign) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/marindave04/DSA/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 ## Bit Manipulation
 |  |
@@ -41,4 +42,9 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/marindave04/DSA/tree/master/0075-sort-colors) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/marindave04/DSA/tree/master/2271-rearrange-array-elements-by-sign) |
+## Simulation
+|  |
+| ------- |
+| [2271-rearrange-array-elements-by-sign](https://github.com/marindave04/DSA/tree/master/2271-rearrange-array-elements-by-sign) |
 <!---LeetCode Topics End-->
