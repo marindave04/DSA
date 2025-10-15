@@ -1,12 +1,11 @@
 class Solution {
     public int missingNumber(int[] nums) {
-      HashMap<Integer,Integer> map=new HashMap<>();
-      for(int i=0;i<nums.length;i++){
-        map.put(nums[i],0);
+      int sum1=0;
+      int n=nums.length;
+      for(int i=0;i<n;i++){
+        sum1=sum1+nums[i];
       }
-      for(int i=0;i<=nums.length;i++){
-        if(!map.containsKey(i)) return i;
-      }
-      return 0;
+      int sum2=n*(n+1)/2;
+      return sum2-sum1;
     }
 }
