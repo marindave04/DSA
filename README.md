@@ -10,6 +10,7 @@
 | [0118-pascals-triangle](https://github.com/marindave04/DSA/tree/master/0118-pascals-triangle) |
 | [0136-single-number](https://github.com/marindave04/DSA/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/marindave04/DSA/tree/master/0268-missing-number) |
+| [0792-binary-search](https://github.com/marindave04/DSA/tree/master/0792-binary-search) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/marindave04/DSA/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/marindave04/DSA/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/marindave04/DSA/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
@@ -65,6 +66,7 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/marindave04/DSA/tree/master/0268-missing-number) |
+| [0792-binary-search](https://github.com/marindave04/DSA/tree/master/0792-binary-search) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/marindave04/DSA/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 ## Math
 |  |
