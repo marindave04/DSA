@@ -47,6 +47,7 @@
 | ------- |
 | [0125-valid-palindrome](https://github.com/marindave04/DSA/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/marindave04/DSA/tree/master/0242-valid-anagram) |
+| [0344-reverse-string](https://github.com/marindave04/DSA/tree/master/0344-reverse-string) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/marindave04/DSA/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/marindave04/DSA/tree/master/2137-final-value-of-variable-after-performing-operations) |
 ## Sorting
@@ -64,6 +65,7 @@
 | [0015-3sum](https://github.com/marindave04/DSA/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/marindave04/DSA/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/marindave04/DSA/tree/master/0125-valid-palindrome) |
+| [0344-reverse-string](https://github.com/marindave04/DSA/tree/master/0344-reverse-string) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/marindave04/DSA/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Simulation
 |  |
