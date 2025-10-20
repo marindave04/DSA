@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/marindave04/DSA/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/marindave04/DSA/tree/master/0015-3sum) |
 | [0053-maximum-subarray](https://github.com/marindave04/DSA/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/marindave04/DSA/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/marindave04/DSA/tree/master/0118-pascals-triangle) |
@@ -50,6 +51,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/marindave04/DSA/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/marindave04/DSA/tree/master/0075-sort-colors) |
 | [0242-valid-anagram](https://github.com/marindave04/DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/marindave04/DSA/tree/master/0268-missing-number) |
@@ -58,6 +60,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/marindave04/DSA/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/marindave04/DSA/tree/master/0075-sort-colors) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/marindave04/DSA/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Simulation
