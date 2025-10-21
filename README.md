@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/marindave04/DSA/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/marindave04/DSA/tree/master/0015-3sum) |
+| [0018-4sum](https://github.com/marindave04/DSA/tree/master/0018-4sum) |
 | [0053-maximum-subarray](https://github.com/marindave04/DSA/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/marindave04/DSA/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/marindave04/DSA/tree/master/0118-pascals-triangle) |
@@ -55,6 +56,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/marindave04/DSA/tree/master/0015-3sum) |
+| [0018-4sum](https://github.com/marindave04/DSA/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/marindave04/DSA/tree/master/0075-sort-colors) |
 | [0242-valid-anagram](https://github.com/marindave04/DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/marindave04/DSA/tree/master/0268-missing-number) |
@@ -64,6 +66,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/marindave04/DSA/tree/master/0015-3sum) |
+| [0018-4sum](https://github.com/marindave04/DSA/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/marindave04/DSA/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/marindave04/DSA/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/marindave04/DSA/tree/master/0344-reverse-string) |
