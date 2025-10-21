@@ -13,7 +13,7 @@ class Solution {
         }
         int temp=0;
         for(int target=0;target<=max;target++){
-            if(cum[target]==0) continue;
+            //if(cum[target]==0) continue;
             int l=Math.max(0,target-k);
             int r=Math.min(target+k,cum.length-1);
             int totalcount=cum[r]-(l>0 ?cum[l-1] : 0);
