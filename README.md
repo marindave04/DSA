@@ -20,6 +20,7 @@
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/marindave04/DSA/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/marindave04/DSA/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/marindave04/DSA/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
+| [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/marindave04/DSA/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -62,6 +63,7 @@
 | [0268-missing-number](https://github.com/marindave04/DSA/tree/master/0268-missing-number) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/marindave04/DSA/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/marindave04/DSA/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
+| [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/marindave04/DSA/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -82,6 +84,7 @@
 | [0268-missing-number](https://github.com/marindave04/DSA/tree/master/0268-missing-number) |
 | [0792-binary-search](https://github.com/marindave04/DSA/tree/master/0792-binary-search) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/marindave04/DSA/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
+| [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/marindave04/DSA/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 ## Math
 |  |
 | ------- |
@@ -102,4 +105,12 @@
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/marindave04/DSA/tree/master/1013-fibonacci-number) |
+## Sliding Window
+|  |
+| ------- |
+| [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/marindave04/DSA/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
+## Prefix Sum
+|  |
+| ------- |
+| [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/marindave04/DSA/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 <!---LeetCode Topics End-->
