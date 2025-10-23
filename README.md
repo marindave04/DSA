@@ -55,6 +55,7 @@
 | [0344-reverse-string](https://github.com/marindave04/DSA/tree/master/0344-reverse-string) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/marindave04/DSA/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/marindave04/DSA/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/marindave04/DSA/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Sorting
 |  |
 | ------- |
@@ -82,6 +83,7 @@
 | ------- |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/marindave04/DSA/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/marindave04/DSA/tree/master/2271-rearrange-array-elements-by-sign) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/marindave04/DSA/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -98,6 +100,7 @@
 | [1013-fibonacci-number](https://github.com/marindave04/DSA/tree/master/1013-fibonacci-number) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/marindave04/DSA/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/marindave04/DSA/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/marindave04/DSA/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Greedy
 |  |
 | ------- |
@@ -121,4 +124,12 @@
 | ------- |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/marindave04/DSA/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/marindave04/DSA/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
+## Combinatorics
+|  |
+| ------- |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/marindave04/DSA/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
+## Number Theory
+|  |
+| ------- |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/marindave04/DSA/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 <!---LeetCode Topics End-->
