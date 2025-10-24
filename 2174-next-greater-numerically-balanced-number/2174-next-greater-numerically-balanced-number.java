@@ -1,9 +1,9 @@
 class Solution {
     public int nextBeautifulNumber(int n) {
-       int max=6666666;
+       int max=1224444;
        
        for(int i=n+1;i<=max;i++){
-        
+        if(i%10==0) continue;
         int num=i;
         int[] freq=new int[10];
         while(num>0){
