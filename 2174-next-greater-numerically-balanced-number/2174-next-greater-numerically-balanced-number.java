@@ -1,6 +1,6 @@
 class Solution {
     public int nextBeautifulNumber(int n) {
-       int max=1224444;
+       int max=6666666;
        
        for(int i=n+1;i<=max;i++){
         
