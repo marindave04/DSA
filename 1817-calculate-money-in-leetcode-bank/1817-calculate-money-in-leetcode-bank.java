@@ -1,21 +1,15 @@
 class Solution {
     public int totalMoney(int n) {
-        int money=1;
-        int count=0;
-        int sum=0;
-        int week =0;
-        for(int i=1;i<=n;i++){
-            sum=sum+money;
-            count++;
-            money++;
-            
-            if(count==7){
-                week++;
-                money=1;
-                money=money+week;
-                count=0;
-            }
-        }
-        return sum;
+       if(n<=7) return n*(n+1)/2;
+       int a=28;
+       int d=7;
+       int week=n/7;
+       int days=n%7;
+       int l=a+(week-1)*d;
+       double s1=(week/2.0)*(a+l);
+       for(int i=week+1;i<=week+days;i++ ){
+        s1=s1+i;
+       }
+       return (int)s1;
     }
 }
