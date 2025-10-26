@@ -106,6 +106,7 @@
 | [1013-fibonacci-number](https://github.com/marindave04/DSA/tree/master/1013-fibonacci-number) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/marindave04/DSA/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/marindave04/DSA/tree/master/1817-calculate-money-in-leetcode-bank) |
+| [2050-count-good-numbers](https://github.com/marindave04/DSA/tree/master/2050-count-good-numbers) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/marindave04/DSA/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/marindave04/DSA/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/marindave04/DSA/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
@@ -119,6 +120,7 @@
 | ------- |
 | [0050-powx-n](https://github.com/marindave04/DSA/tree/master/0050-powx-n) |
 | [1013-fibonacci-number](https://github.com/marindave04/DSA/tree/master/1013-fibonacci-number) |
+| [2050-count-good-numbers](https://github.com/marindave04/DSA/tree/master/2050-count-good-numbers) |
 ## Memoization
 |  |
 | ------- |
