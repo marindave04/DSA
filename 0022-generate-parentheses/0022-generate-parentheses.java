@@ -1,10 +1,10 @@
 class Solution {
     public List<String> generateParenthesis(int n) {
         ArrayList<String> list= new ArrayList<>();
-        generate(n,"",list);
+        generate(n,"",list, 0,0);
         return list;
     }
-    static void generate(int n,String current, ArrayList<String> list){
+    static void generate(int n,String current, ArrayList<String> list,int open,int close){
         if(current.length()==2*n){
             if(Valid(current)){
                 list.add(current);
@@ -12,9 +12,11 @@ class Solution {
             }else{
                 return;
             }
+            // list.add(current);
+            // return;
         }
-        generate(n,current+"(",list);
-        generate(n,current+")",list);
+        if(open<n)generate(n,current+"(",list,open+1,close);
+        generate(n,current+")",list,open,close+1);
     }
      static boolean Valid(String str) {
         int sum = 0;
