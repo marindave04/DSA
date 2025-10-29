@@ -1,13 +1,10 @@
 class Solution {
     public int smallestNumber(int n) {
-       int result=n;
-       while(!checkAllBitSet(result)){
-        result++;
+       int result=1;
+       while(result<n){
+        result=2*result+1;
        }
        return result;
     }
-    static boolean checkAllBitSet(int result){
-        if((result & (result+1))==0) return true;
-        return false;
-    }
+   
 }
