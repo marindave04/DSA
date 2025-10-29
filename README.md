@@ -9,6 +9,7 @@
 | [0018-4sum](https://github.com/marindave04/DSA/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/marindave04/DSA/tree/master/0031-next-permutation) |
 | [0053-maximum-subarray](https://github.com/marindave04/DSA/tree/master/0053-maximum-subarray) |
+| [0073-set-matrix-zeroes](https://github.com/marindave04/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/marindave04/DSA/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/marindave04/DSA/tree/master/0078-subsets) |
 | [0118-pascals-triangle](https://github.com/marindave04/DSA/tree/master/0118-pascals-triangle) |
@@ -54,6 +55,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/marindave04/DSA/tree/master/0001-two-sum) |
+| [0073-set-matrix-zeroes](https://github.com/marindave04/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0242-valid-anagram](https://github.com/marindave04/DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/marindave04/DSA/tree/master/0268-missing-number) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/marindave04/DSA/tree/master/1353-find-resultant-array-after-removing-anagrams) |
@@ -183,5 +185,6 @@
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/marindave04/DSA/tree/master/0073-set-matrix-zeroes) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/marindave04/DSA/tree/master/2244-number-of-laser-beams-in-a-bank) |
 <!---LeetCode Topics End-->
