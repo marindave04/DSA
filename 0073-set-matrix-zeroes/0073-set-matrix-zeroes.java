@@ -2,31 +2,45 @@ class Solution {
     public void setZeroes(int[][] matrix) {
         int m =matrix.length;
         int n =matrix[0].length;
-        HashMap<Integer,Integer> map1=new HashMap<>();
-        HashMap<Integer,Integer> map2=new HashMap<>();
+        //check if first row is impacted
+        boolean firstRowImpacted=false;
+        for(int col=0;col<n;col++){
+            if(matrix[0][col]==0){
+            firstRowImpacted=true;
+            }
+        }
+        //check if first col is impacted
+        boolean firstColImpacted=false;
+        for(int row=0;row<m;row++){
+            if(matrix[row][0]==0){
+            firstColImpacted=true;
+            }
+        }
+        //marking two flags which will helps us whic rows and columns are impacted
         for(int i=0;i<m;i++){
             for(int j=0;j<n;j++){
                 if(matrix[i][j]==0){
-                    map1.put(i,matrix[i][j]);
-                    map2.put(j,matrix[i][j]);
+                   matrix[i][0]=0;
+                   matrix[0][j]=0;
                 }
             }
         }
-        for(Map.Entry<Integer,Integer> entry: map1.entrySet()){
-            if(entry.getValue()==0){
-                int row=entry.getKey();
-                for(int p=0;p<n;p++){
-                    matrix[row][p]=0;
+        for(int i=1;i<m;i++){
+            for(int j=1;j<n;j++){
+                if(matrix[i][0]==0 || matrix[0][j]==0){
+                    matrix[i][j]=0;
                 }
             }
         }
-        for(Map.Entry<Integer,Integer> entry: map2.entrySet()){
-            if(entry.getValue()==0){
-                int col=entry.getKey();
-                for(int q=0;q<m;q++){
-                    matrix[q][col]=0;
-                }
-            }
+        if(firstRowImpacted){
+            for(int col=0;col<n;col++){
+           matrix[0][col]=0;
+        }
+        }
+        if(firstColImpacted){
+            for(int row=0;row<m;row++){
+            matrix[row][0]=0;
+        }
         }
     }
 }
