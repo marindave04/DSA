@@ -1,10 +1,13 @@
 class Solution {
     public int smallestNumber(int n) {
-        int pos=0;
-        while(n>0){
-            n=n>>1;
-            pos++;
-        }
-        return (int)Math.pow(2,pos)-1;
+       int result=n;
+       while(!checkAllBitSet(result)){
+        result++;
+       }
+       return result;
+    }
+    static boolean checkAllBitSet(int result){
+        if((result & (result+1))==0) return true;
+        return false;
     }
 }
