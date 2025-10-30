@@ -38,6 +38,7 @@
 | [0078-subsets](https://github.com/marindave04/DSA/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/marindave04/DSA/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/marindave04/DSA/tree/master/0268-missing-number) |
+| [0795-k-th-symbol-in-grammar](https://github.com/marindave04/DSA/tree/master/0795-k-th-symbol-in-grammar) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/marindave04/DSA/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/marindave04/DSA/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Divide and Conquer
@@ -123,6 +124,7 @@
 | [0050-powx-n](https://github.com/marindave04/DSA/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/marindave04/DSA/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/marindave04/DSA/tree/master/0268-missing-number) |
+| [0795-k-th-symbol-in-grammar](https://github.com/marindave04/DSA/tree/master/0795-k-th-symbol-in-grammar) |
 | [1013-fibonacci-number](https://github.com/marindave04/DSA/tree/master/1013-fibonacci-number) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/marindave04/DSA/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/marindave04/DSA/tree/master/1817-calculate-money-in-leetcode-bank) |
@@ -142,6 +144,7 @@
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/marindave04/DSA/tree/master/0050-powx-n) |
+| [0795-k-th-symbol-in-grammar](https://github.com/marindave04/DSA/tree/master/0795-k-th-symbol-in-grammar) |
 | [1013-fibonacci-number](https://github.com/marindave04/DSA/tree/master/1013-fibonacci-number) |
 | [2050-count-good-numbers](https://github.com/marindave04/DSA/tree/master/2050-count-good-numbers) |
 ## Memoization
