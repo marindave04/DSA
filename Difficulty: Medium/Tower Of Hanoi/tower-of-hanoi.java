@@ -7,9 +7,9 @@ class Solution {
         if(n==0) return 0;
         if(n==1) return 1;
         
-        int count=solve(n-1,from,aux,to);
-        count++;
-        count=count+solve(n-1,aux,to,from);
-        return count;
+        int x= solve(n-1,from,aux,to);
+       // count++;
+        int y=solve(n-1,aux,to,from);
+        return x+y+1;
     }
 }
