@@ -1,15 +1,12 @@
 class Solution {
     public int findTheWinner(int n, int k) {
-     Queue<Integer> que=new LinkedList<>();
-     for(int i=1;i<=n;i++){
-        que.add(i);
-     }
-     while(que.size()>1){
-        for(int count=1;count<k;count++){
-            que.add(que.poll());
-        }
-        que.poll();
-     }
-     return que.poll();
+     return solve(n,k)+1;
+}
+static int solve(int n,int k){
+    if(n==1){
+        return 0;
     }
+    int idx=solve(n-1,k);
+    return (idx+k)%n;
+}
 }
