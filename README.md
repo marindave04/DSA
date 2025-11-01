@@ -21,6 +21,7 @@
 | [0792-binary-search](https://github.com/marindave04/DSA/tree/master/0792-binary-search) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/marindave04/DSA/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/marindave04/DSA/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/marindave04/DSA/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/marindave04/DSA/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2169-simple-bank-system](https://github.com/marindave04/DSA/tree/master/2169-simple-bank-system) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/marindave04/DSA/tree/master/2244-number-of-laser-beams-in-a-bank) |
@@ -106,6 +107,7 @@
 ## Simulation
 |  |
 | ------- |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/marindave04/DSA/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/marindave04/DSA/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2169-simple-bank-system](https://github.com/marindave04/DSA/tree/master/2169-simple-bank-system) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/marindave04/DSA/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -130,6 +132,7 @@
 | [1013-fibonacci-number](https://github.com/marindave04/DSA/tree/master/1013-fibonacci-number) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/marindave04/DSA/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/marindave04/DSA/tree/master/1817-calculate-money-in-leetcode-bank) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/marindave04/DSA/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2050-count-good-numbers](https://github.com/marindave04/DSA/tree/master/2050-count-good-numbers) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/marindave04/DSA/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/marindave04/DSA/tree/master/2244-number-of-laser-beams-in-a-bank) |
@@ -149,6 +152,7 @@
 | [0050-powx-n](https://github.com/marindave04/DSA/tree/master/0050-powx-n) |
 | [0795-k-th-symbol-in-grammar](https://github.com/marindave04/DSA/tree/master/0795-k-th-symbol-in-grammar) |
 | [1013-fibonacci-number](https://github.com/marindave04/DSA/tree/master/1013-fibonacci-number) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/marindave04/DSA/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2050-count-good-numbers](https://github.com/marindave04/DSA/tree/master/2050-count-good-numbers) |
 ## Memoization
 |  |
@@ -204,4 +208,8 @@
 |  |
 | ------- |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/marindave04/DSA/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+## Queue
+|  |
+| ------- |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/marindave04/DSA/tree/master/1951-find-the-winner-of-the-circular-game) |
 <!---LeetCode Topics End-->
