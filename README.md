@@ -20,6 +20,7 @@
 | [0283-move-zeroes](https://github.com/marindave04/DSA/tree/master/0283-move-zeroes) |
 | [0792-binary-search](https://github.com/marindave04/DSA/tree/master/0792-binary-search) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/marindave04/DSA/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/marindave04/DSA/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/marindave04/DSA/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/marindave04/DSA/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/marindave04/DSA/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -125,6 +126,7 @@
 | ------- |
 | [0268-missing-number](https://github.com/marindave04/DSA/tree/master/0268-missing-number) |
 | [0792-binary-search](https://github.com/marindave04/DSA/tree/master/0792-binary-search) |
+| [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/marindave04/DSA/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/marindave04/DSA/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/marindave04/DSA/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/marindave04/DSA/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
