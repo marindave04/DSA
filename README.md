@@ -10,6 +10,7 @@
 | [0031-next-permutation](https://github.com/marindave04/DSA/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/marindave04/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0046-permutations](https://github.com/marindave04/DSA/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/marindave04/DSA/tree/master/0047-permutations-ii) |
 | [0053-maximum-subarray](https://github.com/marindave04/DSA/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/marindave04/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/marindave04/DSA/tree/master/0075-sort-colors) |
@@ -113,6 +114,7 @@
 | ------- |
 | [0015-3sum](https://github.com/marindave04/DSA/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/marindave04/DSA/tree/master/0018-4sum) |
+| [0047-permutations-ii](https://github.com/marindave04/DSA/tree/master/0047-permutations-ii) |
 | [0075-sort-colors](https://github.com/marindave04/DSA/tree/master/0075-sort-colors) |
 | [0242-valid-anagram](https://github.com/marindave04/DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/marindave04/DSA/tree/master/0268-missing-number) |
@@ -227,6 +229,7 @@
 | ------- |
 | [0022-generate-parentheses](https://github.com/marindave04/DSA/tree/master/0022-generate-parentheses) |
 | [0046-permutations](https://github.com/marindave04/DSA/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/marindave04/DSA/tree/master/0047-permutations-ii) |
 | [0078-subsets](https://github.com/marindave04/DSA/tree/master/0078-subsets) |
 | [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/marindave04/DSA/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/marindave04/DSA/tree/master/2174-next-greater-numerically-balanced-number) |
