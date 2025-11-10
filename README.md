@@ -24,6 +24,7 @@
 | [0283-move-zeroes](https://github.com/marindave04/DSA/tree/master/0283-move-zeroes) |
 | [0792-binary-search](https://github.com/marindave04/DSA/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/marindave04/DSA/tree/master/0907-koko-eating-bananas) |
+| [1056-capacity-to-ship-packages-within-d-days](https://github.com/marindave04/DSA/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/marindave04/DSA/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/marindave04/DSA/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1428-jump-game-iii](https://github.com/marindave04/DSA/tree/master/1428-jump-game-iii) |
@@ -153,6 +154,7 @@
 | [0268-missing-number](https://github.com/marindave04/DSA/tree/master/0268-missing-number) |
 | [0792-binary-search](https://github.com/marindave04/DSA/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/marindave04/DSA/tree/master/0907-koko-eating-bananas) |
+| [1056-capacity-to-ship-packages-within-d-days](https://github.com/marindave04/DSA/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/marindave04/DSA/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [2294-minimum-time-to-complete-trips](https://github.com/marindave04/DSA/tree/master/2294-minimum-time-to-complete-trips) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/marindave04/DSA/tree/master/2618-maximize-the-minimum-powered-city) |
