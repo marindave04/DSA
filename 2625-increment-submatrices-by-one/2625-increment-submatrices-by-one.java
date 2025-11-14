@@ -7,9 +7,15 @@ class Solution {
             int row2=queries[i][2];
             int col2=queries[i][3];
             for(int j=row1;j<=row2;j++){
-                for(int k=col1;k<=col2;k++){
-                    matrix[j][k]+=1;
-                }
+                matrix[j][col1]+=1;
+             if(col2+1<n)   matrix[j][col2+1]+=-1;
+
+            }
+           
+        }
+        for(int i=0;i<n;i++){
+            for(int j=1;j<n;j++){
+             matrix[i][j]+=matrix[i][j-1];
             }
         }
         return matrix;
