@@ -3,7 +3,7 @@ class Solution {
         return solve("0",1,n,k);
     }
     static char solve(String str,int i,int n,int k){
-        if(i==n){
+        if(str.length()>k){
             return str.charAt(k-1);
         }
         str=str+"1" + reverse(invert(str));
