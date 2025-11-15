@@ -38,6 +38,7 @@
 | [2271-rearrange-array-elements-by-sign](https://github.com/marindave04/DSA/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2294-minimum-time-to-complete-trips](https://github.com/marindave04/DSA/tree/master/2294-minimum-time-to-complete-trips) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/marindave04/DSA/tree/master/2343-count-unguarded-cells-in-the-grid) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/marindave04/DSA/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/marindave04/DSA/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2625-increment-submatrices-by-one](https://github.com/marindave04/DSA/tree/master/2625-increment-submatrices-by-one) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/marindave04/DSA/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
@@ -126,6 +127,7 @@
 | [0242-valid-anagram](https://github.com/marindave04/DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/marindave04/DSA/tree/master/0268-missing-number) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/marindave04/DSA/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/marindave04/DSA/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/marindave04/DSA/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/marindave04/DSA/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/marindave04/DSA/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
@@ -141,6 +143,7 @@
 | [0283-move-zeroes](https://github.com/marindave04/DSA/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/marindave04/DSA/tree/master/0344-reverse-string) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/marindave04/DSA/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/marindave04/DSA/tree/master/2392-successful-pairs-of-spells-and-potions) |
 ## Simulation
 |  |
 | ------- |
@@ -164,6 +167,7 @@
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/marindave04/DSA/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/marindave04/DSA/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [2294-minimum-time-to-complete-trips](https://github.com/marindave04/DSA/tree/master/2294-minimum-time-to-complete-trips) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/marindave04/DSA/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/marindave04/DSA/tree/master/2618-maximize-the-minimum-powered-city) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/marindave04/DSA/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/marindave04/DSA/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
