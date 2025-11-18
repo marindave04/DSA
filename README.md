@@ -80,6 +80,7 @@
 | ------- |
 | [0022-generate-parentheses](https://github.com/marindave04/DSA/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/marindave04/DSA/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/marindave04/DSA/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/marindave04/DSA/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/marindave04/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0474-ones-and-zeroes](https://github.com/marindave04/DSA/tree/master/0474-ones-and-zeroes) |
@@ -186,6 +187,7 @@
 | ------- |
 | [0009-palindrome-number](https://github.com/marindave04/DSA/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/marindave04/DSA/tree/master/0050-powx-n) |
+| [0070-climbing-stairs](https://github.com/marindave04/DSA/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/marindave04/DSA/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/marindave04/DSA/tree/master/0268-missing-number) |
 | [0795-k-th-symbol-in-grammar](https://github.com/marindave04/DSA/tree/master/0795-k-th-symbol-in-grammar) |
@@ -225,6 +227,7 @@
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/marindave04/DSA/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/marindave04/DSA/tree/master/1013-fibonacci-number) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/marindave04/DSA/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 ## Sliding Window
