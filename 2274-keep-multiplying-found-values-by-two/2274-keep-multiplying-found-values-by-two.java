@@ -1,8 +1,11 @@
 class Solution {
     public int findFinalValue(int[] nums, int original) {
-        Arrays.sort(nums);
+        HashMap<Integer,Integer> map=new HashMap<>();
         for(int i=0;i<nums.length;i++){
-            if(nums[i]==original){
+            map.put(nums[i],map.getOrDefault(nums[i],0)+1);
+        }
+        for(int i=0;i<nums.length;i++){
+            if(map.containsKey(original)){
                 original *=2;
             }
         }
