@@ -20,6 +20,7 @@
 | [0136-single-number](https://github.com/marindave04/DSA/tree/master/0136-single-number) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/marindave04/DSA/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0189-rotate-array](https://github.com/marindave04/DSA/tree/master/0189-rotate-array) |
+| [0213-house-robber-ii](https://github.com/marindave04/DSA/tree/master/0213-house-robber-ii) |
 | [0268-missing-number](https://github.com/marindave04/DSA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/marindave04/DSA/tree/master/0283-move-zeroes) |
 | [0474-ones-and-zeroes](https://github.com/marindave04/DSA/tree/master/0474-ones-and-zeroes) |
@@ -84,6 +85,7 @@
 | [0070-climbing-stairs](https://github.com/marindave04/DSA/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/marindave04/DSA/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/marindave04/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0213-house-robber-ii](https://github.com/marindave04/DSA/tree/master/0213-house-robber-ii) |
 | [0474-ones-and-zeroes](https://github.com/marindave04/DSA/tree/master/0474-ones-and-zeroes) |
 | [1013-fibonacci-number](https://github.com/marindave04/DSA/tree/master/1013-fibonacci-number) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/marindave04/DSA/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
