@@ -2,7 +2,9 @@ class Solution {
     public int findFinalValue(int[] nums, int original) {
         HashMap<Integer,Integer> map=new HashMap<>();
         for(int i=0;i<nums.length;i++){
-            map.put(nums[i],map.getOrDefault(nums[i],0)+1);
+            if(nums[i]%original==0){
+                map.put(nums[i],0);
+            }
         }
         for(int i=0;i<nums.length;i++){
             if(map.containsKey(original)){
