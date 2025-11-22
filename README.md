@@ -37,6 +37,7 @@
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/marindave04/DSA/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/marindave04/DSA/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/marindave04/DSA/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [1911-maximum-alternating-subsequence-sum](https://github.com/marindave04/DSA/tree/master/1911-maximum-alternating-subsequence-sum) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/marindave04/DSA/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/marindave04/DSA/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2169-simple-bank-system](https://github.com/marindave04/DSA/tree/master/2169-simple-bank-system) |
@@ -94,6 +95,7 @@
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/marindave04/DSA/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/marindave04/DSA/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/marindave04/DSA/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
+| [1911-maximum-alternating-subsequence-sum](https://github.com/marindave04/DSA/tree/master/1911-maximum-alternating-subsequence-sum) |
 ## Hash Table
 |  |
 | ------- |
