@@ -30,6 +30,7 @@
 | [0792-binary-search](https://github.com/marindave04/DSA/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/marindave04/DSA/tree/master/0907-koko-eating-bananas) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/marindave04/DSA/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [1262-greatest-sum-divisible-by-three](https://github.com/marindave04/DSA/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/marindave04/DSA/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/marindave04/DSA/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1428-jump-game-iii](https://github.com/marindave04/DSA/tree/master/1428-jump-game-iii) |
@@ -92,6 +93,7 @@
 | [0213-house-robber-ii](https://github.com/marindave04/DSA/tree/master/0213-house-robber-ii) |
 | [0474-ones-and-zeroes](https://github.com/marindave04/DSA/tree/master/0474-ones-and-zeroes) |
 | [1013-fibonacci-number](https://github.com/marindave04/DSA/tree/master/1013-fibonacci-number) |
+| [1262-greatest-sum-divisible-by-three](https://github.com/marindave04/DSA/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/marindave04/DSA/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/marindave04/DSA/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/marindave04/DSA/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
@@ -148,6 +150,7 @@
 | [0242-valid-anagram](https://github.com/marindave04/DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/marindave04/DSA/tree/master/0268-missing-number) |
 | [0759-set-intersection-size-at-least-two](https://github.com/marindave04/DSA/tree/master/0759-set-intersection-size-at-least-two) |
+| [1262-greatest-sum-divisible-by-three](https://github.com/marindave04/DSA/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/marindave04/DSA/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/marindave04/DSA/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/marindave04/DSA/tree/master/2392-successful-pairs-of-spells-and-potions) |
@@ -224,6 +227,7 @@
 |  |
 | ------- |
 | [0759-set-intersection-size-at-least-two](https://github.com/marindave04/DSA/tree/master/0759-set-intersection-size-at-least-two) |
+| [1262-greatest-sum-divisible-by-three](https://github.com/marindave04/DSA/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/marindave04/DSA/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/marindave04/DSA/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/marindave04/DSA/tree/master/2618-maximize-the-minimum-powered-city) |
