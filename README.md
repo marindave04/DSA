@@ -29,6 +29,7 @@
 | [0759-set-intersection-size-at-least-two](https://github.com/marindave04/DSA/tree/master/0759-set-intersection-size-at-least-two) |
 | [0792-binary-search](https://github.com/marindave04/DSA/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/marindave04/DSA/tree/master/0907-koko-eating-bananas) |
+| [1018-binary-prefix-divisible-by-5](https://github.com/marindave04/DSA/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/marindave04/DSA/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/marindave04/DSA/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/marindave04/DSA/tree/master/1353-find-resultant-array-after-removing-anagrams) |
@@ -72,6 +73,7 @@
 | [0136-single-number](https://github.com/marindave04/DSA/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/marindave04/DSA/tree/master/0268-missing-number) |
 | [0795-k-th-symbol-in-grammar](https://github.com/marindave04/DSA/tree/master/0795-k-th-symbol-in-grammar) |
+| [1018-binary-prefix-divisible-by-5](https://github.com/marindave04/DSA/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/marindave04/DSA/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/marindave04/DSA/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/marindave04/DSA/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
