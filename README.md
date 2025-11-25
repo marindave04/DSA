@@ -109,6 +109,7 @@
 | [0268-missing-number](https://github.com/marindave04/DSA/tree/master/0268-missing-number) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/marindave04/DSA/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0496-next-greater-element-i](https://github.com/marindave04/DSA/tree/master/0496-next-greater-element-i) |
+| [1015-smallest-integer-divisible-by-k](https://github.com/marindave04/DSA/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/marindave04/DSA/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/marindave04/DSA/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2169-simple-bank-system](https://github.com/marindave04/DSA/tree/master/2169-simple-bank-system) |
@@ -211,6 +212,7 @@
 | [0268-missing-number](https://github.com/marindave04/DSA/tree/master/0268-missing-number) |
 | [0795-k-th-symbol-in-grammar](https://github.com/marindave04/DSA/tree/master/0795-k-th-symbol-in-grammar) |
 | [1013-fibonacci-number](https://github.com/marindave04/DSA/tree/master/1013-fibonacci-number) |
+| [1015-smallest-integer-divisible-by-k](https://github.com/marindave04/DSA/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/marindave04/DSA/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/marindave04/DSA/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/marindave04/DSA/tree/master/1817-calculate-money-in-leetcode-bank) |
