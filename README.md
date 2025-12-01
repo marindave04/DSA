@@ -46,6 +46,7 @@
 | [1911-maximum-alternating-subsequence-sum](https://github.com/marindave04/DSA/tree/master/1911-maximum-alternating-subsequence-sum) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/marindave04/DSA/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/marindave04/DSA/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2141-maximum-running-time-of-n-computers](https://github.com/marindave04/DSA/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2169-simple-bank-system](https://github.com/marindave04/DSA/tree/master/2169-simple-bank-system) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/marindave04/DSA/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/marindave04/DSA/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -168,6 +169,7 @@
 | [0759-set-intersection-size-at-least-two](https://github.com/marindave04/DSA/tree/master/0759-set-intersection-size-at-least-two) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/marindave04/DSA/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/marindave04/DSA/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [2141-maximum-running-time-of-n-computers](https://github.com/marindave04/DSA/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/marindave04/DSA/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/marindave04/DSA/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/marindave04/DSA/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
@@ -210,6 +212,7 @@
 | [0907-koko-eating-bananas](https://github.com/marindave04/DSA/tree/master/0907-koko-eating-bananas) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/marindave04/DSA/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/marindave04/DSA/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
+| [2141-maximum-running-time-of-n-computers](https://github.com/marindave04/DSA/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2294-minimum-time-to-complete-trips](https://github.com/marindave04/DSA/tree/master/2294-minimum-time-to-complete-trips) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/marindave04/DSA/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/marindave04/DSA/tree/master/2618-maximize-the-minimum-powered-city) |
@@ -249,6 +252,7 @@
 | [1262-greatest-sum-divisible-by-three](https://github.com/marindave04/DSA/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/marindave04/DSA/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/marindave04/DSA/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [2141-maximum-running-time-of-n-computers](https://github.com/marindave04/DSA/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/marindave04/DSA/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/marindave04/DSA/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/marindave04/DSA/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
