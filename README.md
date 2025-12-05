@@ -75,6 +75,7 @@
 | [3623-count-number-of-trapezoids-i](https://github.com/marindave04/DSA/tree/master/3623-count-number-of-trapezoids-i) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/marindave04/DSA/tree/master/3625-count-number-of-trapezoids-ii) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/marindave04/DSA/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
+| [3752-lexicographically-smallest-negated-permutation-that-sums-to-target](https://github.com/marindave04/DSA/tree/master/3752-lexicographically-smallest-negated-permutation-that-sums-to-target) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/marindave04/DSA/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [3863-power-grid-maintenance](https://github.com/marindave04/DSA/tree/master/3863-power-grid-maintenance) |
 ## Bit Manipulation
@@ -181,6 +182,7 @@
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/marindave04/DSA/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/marindave04/DSA/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/marindave04/DSA/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
+| [3752-lexicographically-smallest-negated-permutation-that-sums-to-target](https://github.com/marindave04/DSA/tree/master/3752-lexicographically-smallest-negated-permutation-that-sums-to-target) |
 ## Two Pointers
 |  |
 | ------- |
@@ -194,6 +196,7 @@
 | [0344-reverse-string](https://github.com/marindave04/DSA/tree/master/0344-reverse-string) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/marindave04/DSA/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/marindave04/DSA/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [3752-lexicographically-smallest-negated-permutation-that-sums-to-target](https://github.com/marindave04/DSA/tree/master/3752-lexicographically-smallest-negated-permutation-that-sums-to-target) |
 ## Simulation
 |  |
 | ------- |
@@ -254,6 +257,7 @@
 | [3623-count-number-of-trapezoids-i](https://github.com/marindave04/DSA/tree/master/3623-count-number-of-trapezoids-i) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/marindave04/DSA/tree/master/3625-count-number-of-trapezoids-ii) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/marindave04/DSA/tree/master/3676-smallest-number-with-all-set-bits) |
+| [3752-lexicographically-smallest-negated-permutation-that-sums-to-target](https://github.com/marindave04/DSA/tree/master/3752-lexicographically-smallest-negated-permutation-that-sums-to-target) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/marindave04/DSA/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Greedy
 |  |
@@ -267,6 +271,7 @@
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/marindave04/DSA/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/marindave04/DSA/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/marindave04/DSA/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
+| [3752-lexicographically-smallest-negated-permutation-that-sums-to-target](https://github.com/marindave04/DSA/tree/master/3752-lexicographically-smallest-negated-permutation-that-sums-to-target) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/marindave04/DSA/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Recursion
 |  |
