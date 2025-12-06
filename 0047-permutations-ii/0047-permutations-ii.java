@@ -1,26 +1,26 @@
 class Solution {
      private List<List<Integer>> ans=new ArrayList<>();
     public List<List<Integer>> permuteUnique(int[] nums) {
-      Arrays.sort(nums);
-      boolean[] temp=new boolean[nums.length];
-      List<Integer> list=new ArrayList<>();
-      solve(nums,temp,list);
+     
+      List<Integer> sub = new ArrayList<>();
+      for (int x : nums) sub.add(x);
+     
+      solve(0,sub);
       return ans;
     }
-     private void solve(int[] nums,boolean[] temp,List<Integer> list){
-    if(list.size()==nums.length){
+    private void solve(int idx,List<Integer> list){
+    if(idx==list.size()){
         ans.add(new ArrayList<>(list));
+        return;
     }
-    for(int i=0;i<nums.length;i++){
-       if(i>0 && nums[i]==nums[i-1] && temp[i-1]==false) continue;
-        if(!temp[i]){
-            list.add(nums[i]);
-            temp[i]=true;
-            solve(nums,temp,list);
-            list.remove(list.size()-1);
-            temp[i]=false;
-        }
-        
+     HashSet<Integer> used = new HashSet<>();
+    for(int i=idx;i<list.size();i++){
+        if (used.contains(list.get(i))) continue;
+            used.add(list.get(i));
+
+       Collections.swap(list, i, idx);
+       solve(idx+1,list);
+       Collections.swap(list, i, idx);
     }
    }
 }
