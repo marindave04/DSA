@@ -246,6 +246,7 @@
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/marindave04/DSA/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/marindave04/DSA/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/marindave04/DSA/tree/master/1817-calculate-money-in-leetcode-bank) |
+| [1925-count-square-sum-triples](https://github.com/marindave04/DSA/tree/master/1925-count-square-sum-triples) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/marindave04/DSA/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2050-count-good-numbers](https://github.com/marindave04/DSA/tree/master/2050-count-good-numbers) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/marindave04/DSA/tree/master/2174-next-greater-numerically-balanced-number) |
@@ -343,6 +344,7 @@
 ## Enumeration
 |  |
 | ------- |
+| [1925-count-square-sum-triples](https://github.com/marindave04/DSA/tree/master/1925-count-square-sum-triples) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/marindave04/DSA/tree/master/2174-next-greater-numerically-balanced-number) |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/marindave04/DSA/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 ## Design
