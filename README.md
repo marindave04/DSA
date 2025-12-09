@@ -78,6 +78,7 @@
 | [3625-count-number-of-trapezoids-ii](https://github.com/marindave04/DSA/tree/master/3625-count-number-of-trapezoids-ii) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/marindave04/DSA/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3752-lexicographically-smallest-negated-permutation-that-sums-to-target](https://github.com/marindave04/DSA/tree/master/3752-lexicographically-smallest-negated-permutation-that-sums-to-target) |
+| [3766-minimum-operations-to-make-binary-palindrome](https://github.com/marindave04/DSA/tree/master/3766-minimum-operations-to-make-binary-palindrome) |
 | [3770-largest-prime-from-consecutive-prime-sum](https://github.com/marindave04/DSA/tree/master/3770-largest-prime-from-consecutive-prime-sum) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/marindave04/DSA/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [3863-power-grid-maintenance](https://github.com/marindave04/DSA/tree/master/3863-power-grid-maintenance) |
@@ -95,6 +96,7 @@
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/marindave04/DSA/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/marindave04/DSA/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/marindave04/DSA/tree/master/3676-smallest-number-with-all-set-bits) |
+| [3766-minimum-operations-to-make-binary-palindrome](https://github.com/marindave04/DSA/tree/master/3766-minimum-operations-to-make-binary-palindrome) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -202,6 +204,7 @@
 | [2271-rearrange-array-elements-by-sign](https://github.com/marindave04/DSA/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/marindave04/DSA/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [3752-lexicographically-smallest-negated-permutation-that-sums-to-target](https://github.com/marindave04/DSA/tree/master/3752-lexicographically-smallest-negated-permutation-that-sums-to-target) |
+| [3766-minimum-operations-to-make-binary-palindrome](https://github.com/marindave04/DSA/tree/master/3766-minimum-operations-to-make-binary-palindrome) |
 ## Simulation
 |  |
 | ------- |
@@ -234,6 +237,7 @@
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/marindave04/DSA/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/marindave04/DSA/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/marindave04/DSA/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
+| [3766-minimum-operations-to-make-binary-palindrome](https://github.com/marindave04/DSA/tree/master/3766-minimum-operations-to-make-binary-palindrome) |
 ## Math
 |  |
 | ------- |
