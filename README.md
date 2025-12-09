@@ -78,6 +78,7 @@
 | [3625-count-number-of-trapezoids-ii](https://github.com/marindave04/DSA/tree/master/3625-count-number-of-trapezoids-ii) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/marindave04/DSA/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3752-lexicographically-smallest-negated-permutation-that-sums-to-target](https://github.com/marindave04/DSA/tree/master/3752-lexicographically-smallest-negated-permutation-that-sums-to-target) |
+| [3770-largest-prime-from-consecutive-prime-sum](https://github.com/marindave04/DSA/tree/master/3770-largest-prime-from-consecutive-prime-sum) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/marindave04/DSA/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [3863-power-grid-maintenance](https://github.com/marindave04/DSA/tree/master/3863-power-grid-maintenance) |
 ## Bit Manipulation
@@ -265,6 +266,7 @@
 | [3676-smallest-number-with-all-set-bits](https://github.com/marindave04/DSA/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3752-lexicographically-smallest-negated-permutation-that-sums-to-target](https://github.com/marindave04/DSA/tree/master/3752-lexicographically-smallest-negated-permutation-that-sums-to-target) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/marindave04/DSA/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
+| [3770-largest-prime-from-consecutive-prime-sum](https://github.com/marindave04/DSA/tree/master/3770-largest-prime-from-consecutive-prime-sum) |
 ## Greedy
 |  |
 | ------- |
@@ -328,6 +330,7 @@
 | ------- |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/marindave04/DSA/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/marindave04/DSA/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
+| [3770-largest-prime-from-consecutive-prime-sum](https://github.com/marindave04/DSA/tree/master/3770-largest-prime-from-consecutive-prime-sum) |
 ## Backtracking
 |  |
 | ------- |
