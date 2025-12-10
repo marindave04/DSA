@@ -15,6 +15,7 @@
 | [0073-set-matrix-zeroes](https://github.com/marindave04/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/marindave04/DSA/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/marindave04/DSA/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/marindave04/DSA/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/marindave04/DSA/tree/master/0090-subsets-ii) |
 | [0118-pascals-triangle](https://github.com/marindave04/DSA/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/marindave04/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -155,6 +156,7 @@
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/marindave04/DSA/tree/master/0008-string-to-integer-atoi) |
 | [0022-generate-parentheses](https://github.com/marindave04/DSA/tree/master/0022-generate-parentheses) |
+| [0079-word-search](https://github.com/marindave04/DSA/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/marindave04/DSA/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/marindave04/DSA/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/marindave04/DSA/tree/master/0344-reverse-string) |
@@ -345,6 +347,7 @@
 | [0046-permutations](https://github.com/marindave04/DSA/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/marindave04/DSA/tree/master/0047-permutations-ii) |
 | [0078-subsets](https://github.com/marindave04/DSA/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/marindave04/DSA/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/marindave04/DSA/tree/master/0090-subsets-ii) |
 | [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/marindave04/DSA/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/marindave04/DSA/tree/master/2174-next-greater-numerically-balanced-number) |
@@ -368,6 +371,7 @@
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/marindave04/DSA/tree/master/0073-set-matrix-zeroes) |
+| [0079-word-search](https://github.com/marindave04/DSA/tree/master/0079-word-search) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/marindave04/DSA/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/marindave04/DSA/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/marindave04/DSA/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
@@ -404,6 +408,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/marindave04/DSA/tree/master/0079-word-search) |
 | [1428-jump-game-iii](https://github.com/marindave04/DSA/tree/master/1428-jump-game-iii) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/marindave04/DSA/tree/master/2872-maximum-number-of-k-divisible-components) |
 | [3863-power-grid-maintenance](https://github.com/marindave04/DSA/tree/master/3863-power-grid-maintenance) |
