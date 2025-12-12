@@ -1,28 +1,25 @@
 class Solution {
     public int longestSubstring(String s, int k) {
-        if(k>s.length()) return 0;
-        if(s==null || s.isEmpty()) return 0;
-       int[] freq=new int [26];
-       int ans=0;
-       for(int i=0;i<s.length();i++){
-        Arrays.fill(freq,0);
-        for(int j=i;j<s.length();j++){
-           freq[s.charAt(j)-'a']++;
-            if(check(s,i,j,k,freq)){
-               int len=j-i+1;
-               ans=Math.max(ans,len);
-            }
-        }
-       }
-       return ans;
+       
+       int n=s.length();
+       
+       return solve(s,0,n,k);
     }
-    static boolean check(String s,int i,int j,int k,int[]freq){
-        int letterCount=0;
-        int freqCount=0;
-        for(int num:freq){
-            if(num>0) letterCount++;
-            if(num>=k) freqCount++;
-        }
-        return (letterCount==freqCount);
+    static int solve(String s,int start,int end,int k){
+       if(end<k) return 0;
+
+       int[] freq=new int[26];
+       for(int i=start;i<end;i++){
+        freq[s.charAt(i)-'a']++;
+       }
+       for(int mid=start;mid<end;mid++){
+       if (freq[s.charAt(mid)-'a']>=k) continue;
+       int midNext=mid+1;
+       while(midNext<end && freq[s.charAt(midNext)-'a']<k) midNext++;
+       int left=solve(s,start,mid,k);
+       int right=solve(s,midNext,end,k);
+       return Math.max(left,right);
+       }
+       return (end-start);
     }
 }
