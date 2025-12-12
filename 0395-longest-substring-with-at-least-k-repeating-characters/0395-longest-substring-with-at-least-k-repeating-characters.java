@@ -1,25 +1,28 @@
 class Solution {
     public int longestSubstring(String s, int k) {
-       return sub(s,0,s.length(),k);
-    }
-    static int sub(String s,int start,int e,int k){
-        if(e-start < k){
-            return 0;
-        }
-        int[] fq=new int[26];
-        for(int i=start;i<e;i++){
-            char ch=s.charAt(i);
-            fq[ch-'a']++;
-        }
-        for(int j=start;j<e;j++){
-            if(fq[s.charAt(j)-'a'] < k){
-                int next=j+1;
-                while(next<e && fq[s.charAt(next)-'a'] < k) next++;
-                int left=sub(s,start,j,k);
-                int right=sub(s,next,e,k);
-                 return Math.max(left,right);
+        if(k>s.length()) return 0;
+        if(s==null || s.isEmpty()) return 0;
+       int[] freq=new int [26];
+       int ans=0;
+       for(int i=0;i<s.length();i++){
+        Arrays.fill(freq,0);
+        for(int j=i;j<s.length();j++){
+           freq[s.charAt(j)-'a']++;
+            if(check(s,i,j,k,freq)){
+               int len=j-i+1;
+               ans=Math.max(ans,len);
             }
         }
-        return e-start;
+       }
+       return ans;
+    }
+    static boolean check(String s,int i,int j,int k,int[]freq){
+        int letterCount=0;
+        int freqCount=0;
+        for(int num:freq){
+            if(num>0) letterCount++;
+            if(num>=k) freqCount++;
+        }
+        return (letterCount==freqCount);
     }
 }
