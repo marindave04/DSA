@@ -1,45 +1,53 @@
 class Solution {
+    public long maximumProfit(int[] prices, int K) {
+        int n = prices.length;
 
-    static long[][][] dp = new long[1001][501][3];
+        long[][][] t = new long[n + 1][K + 1][3];
 
-    public long maximumProfit(int[] prices, int k) {
+        // Base case: i == n
+        for (int k = 0; k <= K; k++) {
+            t[n][k][0] = 0;
+            t[n][k][1] = Long.MIN_VALUE / 2;
+            t[n][k][2] = Long.MIN_VALUE / 2;
+        }
 
-        for (int i = 0; i < prices.length; i++) {
-            for (int j = 0; j <= k; j++) {
-                for (int l = 0; l < 3; l++) {
-                    dp[i][j][l] = Long.MIN_VALUE;
+        // Fill table bottom-up
+        for (int i = n - 1; i >= 0; i--) {
+            for (int k = 0; k <= K; k++) {
+
+                // CASE 0: no open transaction
+                t[i][k][0] = t[i + 1][k][0]; // do nothing
+                if (k > 0) {
+                    t[i][k][0] = Math.max(
+                            t[i][k][0],
+                            Math.max(
+                                    -prices[i] + t[i + 1][k][1], // buy
+                                     prices[i] + t[i + 1][k][2]  // short sell
+                            )
+                    );
+                }
+
+                // CASE 1: holding long
+                t[i][k][1] = t[i + 1][k][1]; // hold
+                if (k > 0) {
+                    t[i][k][1] = Math.max(
+                            t[i][k][1],
+                            prices[i] + t[i + 1][k - 1][0] // sell
+                    );
+                }
+
+                // CASE 2: holding short
+                t[i][k][2] = t[i + 1][k][2]; // hold
+                if (k > 0) {
+                    t[i][k][2] = Math.max(
+                            t[i][k][2],
+                            -prices[i] + t[i + 1][k - 1][0] // buy back
+                    );
                 }
             }
         }
-        return solve(0, k, 0, prices);
-    }
 
-    static long solve(int i, int k, int temp, int[] prices) {
-
-        if (i >= prices.length) {
-            if (temp == 0) return 0;
-            else return Long.MIN_VALUE/2;
-        }
-
-        if (dp[i][k][temp] != Long.MIN_VALUE)
-            return dp[i][k][temp];
-
-        long take = Long.MIN_VALUE;
-        long skip = solve(i + 1, k, temp, prices);
-
-        if (k > 0) {
-            if (temp == 1) {
-                take = prices[i] + solve(i + 1, k - 1, 0, prices);
-            } else if (temp == 2) {
-                take = -prices[i] + solve(i + 1, k - 1, 0, prices);
-            } else {
-                take = Math.max(
-                        prices[i] + solve(i + 1, k, 2, prices),
-                        -prices[i] + solve(i + 1, k, 1, prices)
-                );
-            }
-        }
-
-        return dp[i][k][temp] = Math.max(take, skip);
+        // Start from day 0, K transactions, no open position
+        return t[0][K][0];
     }
 }
