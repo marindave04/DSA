@@ -90,6 +90,7 @@
 | [3623-count-number-of-trapezoids-i](https://github.com/marindave04/DSA/tree/master/3623-count-number-of-trapezoids-i) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/marindave04/DSA/tree/master/3625-count-number-of-trapezoids-ii) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/marindave04/DSA/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
+| [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/marindave04/DSA/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 | [3752-lexicographically-smallest-negated-permutation-that-sums-to-target](https://github.com/marindave04/DSA/tree/master/3752-lexicographically-smallest-negated-permutation-that-sums-to-target) |
 | [3766-minimum-operations-to-make-binary-palindrome](https://github.com/marindave04/DSA/tree/master/3766-minimum-operations-to-make-binary-palindrome) |
 | [3770-largest-prime-from-consecutive-prime-sum](https://github.com/marindave04/DSA/tree/master/3770-largest-prime-from-consecutive-prime-sum) |
@@ -351,6 +352,7 @@
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/marindave04/DSA/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/marindave04/DSA/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/marindave04/DSA/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
+| [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/marindave04/DSA/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -365,6 +367,7 @@
 | [3616-make-array-elements-equal-to-zero](https://github.com/marindave04/DSA/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/marindave04/DSA/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/marindave04/DSA/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
+| [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/marindave04/DSA/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 ## Combinatorics
 |  |
 | ------- |
