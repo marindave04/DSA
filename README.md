@@ -39,6 +39,7 @@
 | [1018-binary-prefix-divisible-by-5](https://github.com/marindave04/DSA/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/marindave04/DSA/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/marindave04/DSA/tree/master/1262-greatest-sum-divisible-by-three) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/marindave04/DSA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/marindave04/DSA/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/marindave04/DSA/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1428-jump-game-iii](https://github.com/marindave04/DSA/tree/master/1428-jump-game-iii) |
@@ -268,6 +269,7 @@
 | [0792-binary-search](https://github.com/marindave04/DSA/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/marindave04/DSA/tree/master/0907-koko-eating-bananas) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/marindave04/DSA/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/marindave04/DSA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/marindave04/DSA/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [2054-two-best-non-overlapping-events](https://github.com/marindave04/DSA/tree/master/2054-two-best-non-overlapping-events) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/marindave04/DSA/tree/master/2141-maximum-running-time-of-n-computers) |
@@ -421,6 +423,7 @@
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/marindave04/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/marindave04/DSA/tree/master/0079-word-search) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/marindave04/DSA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/marindave04/DSA/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/marindave04/DSA/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/marindave04/DSA/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
