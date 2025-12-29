@@ -106,6 +106,7 @@
 | [0090-subsets-ii](https://github.com/marindave04/DSA/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/marindave04/DSA/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/marindave04/DSA/tree/master/0268-missing-number) |
+| [0756-pyramid-transition-matrix](https://github.com/marindave04/DSA/tree/master/0756-pyramid-transition-matrix) |
 | [0795-k-th-symbol-in-grammar](https://github.com/marindave04/DSA/tree/master/0795-k-th-symbol-in-grammar) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/marindave04/DSA/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/marindave04/DSA/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
@@ -151,6 +152,7 @@
 | [0268-missing-number](https://github.com/marindave04/DSA/tree/master/0268-missing-number) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/marindave04/DSA/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0496-next-greater-element-i](https://github.com/marindave04/DSA/tree/master/0496-next-greater-element-i) |
+| [0756-pyramid-transition-matrix](https://github.com/marindave04/DSA/tree/master/0756-pyramid-transition-matrix) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/marindave04/DSA/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/marindave04/DSA/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/marindave04/DSA/tree/master/1353-find-resultant-array-after-removing-anagrams) |
@@ -184,6 +186,7 @@
 | [0344-reverse-string](https://github.com/marindave04/DSA/tree/master/0344-reverse-string) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/marindave04/DSA/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0474-ones-and-zeroes](https://github.com/marindave04/DSA/tree/master/0474-ones-and-zeroes) |
+| [0756-pyramid-transition-matrix](https://github.com/marindave04/DSA/tree/master/0756-pyramid-transition-matrix) |
 | [0944-delete-columns-to-make-sorted](https://github.com/marindave04/DSA/tree/master/0944-delete-columns-to-make-sorted) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/marindave04/DSA/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/marindave04/DSA/tree/master/1353-find-resultant-array-after-removing-anagrams) |
@@ -400,6 +403,7 @@
 | [0078-subsets](https://github.com/marindave04/DSA/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/marindave04/DSA/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/marindave04/DSA/tree/master/0090-subsets-ii) |
+| [0756-pyramid-transition-matrix](https://github.com/marindave04/DSA/tree/master/0756-pyramid-transition-matrix) |
 | [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/marindave04/DSA/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/marindave04/DSA/tree/master/2174-next-greater-numerically-balanced-number) |
 ## Counting
