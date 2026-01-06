@@ -30,6 +30,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/marindave04/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0474-ones-and-zeroes](https://github.com/marindave04/DSA/tree/master/0474-ones-and-zeroes) |
 | [0496-next-greater-element-i](https://github.com/marindave04/DSA/tree/master/0496-next-greater-element-i) |
+| [0646-maximum-length-of-pair-chain](https://github.com/marindave04/DSA/tree/master/0646-maximum-length-of-pair-chain) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/marindave04/DSA/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0759-set-intersection-size-at-least-two](https://github.com/marindave04/DSA/tree/master/0759-set-intersection-size-at-least-two) |
 | [0792-binary-search](https://github.com/marindave04/DSA/tree/master/0792-binary-search) |
@@ -137,6 +138,7 @@
 | [0213-house-robber-ii](https://github.com/marindave04/DSA/tree/master/0213-house-robber-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/marindave04/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0474-ones-and-zeroes](https://github.com/marindave04/DSA/tree/master/0474-ones-and-zeroes) |
+| [0646-maximum-length-of-pair-chain](https://github.com/marindave04/DSA/tree/master/0646-maximum-length-of-pair-chain) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/marindave04/DSA/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1013-fibonacci-number](https://github.com/marindave04/DSA/tree/master/1013-fibonacci-number) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/marindave04/DSA/tree/master/1262-greatest-sum-divisible-by-three) |
@@ -224,6 +226,7 @@
 | [0075-sort-colors](https://github.com/marindave04/DSA/tree/master/0075-sort-colors) |
 | [0242-valid-anagram](https://github.com/marindave04/DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/marindave04/DSA/tree/master/0268-missing-number) |
+| [0646-maximum-length-of-pair-chain](https://github.com/marindave04/DSA/tree/master/0646-maximum-length-of-pair-chain) |
 | [0759-set-intersection-size-at-least-two](https://github.com/marindave04/DSA/tree/master/0759-set-intersection-size-at-least-two) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/marindave04/DSA/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/marindave04/DSA/tree/master/1353-find-resultant-array-after-removing-anagrams) |
@@ -339,6 +342,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0646-maximum-length-of-pair-chain](https://github.com/marindave04/DSA/tree/master/0646-maximum-length-of-pair-chain) |
 | [0759-set-intersection-size-at-least-two](https://github.com/marindave04/DSA/tree/master/0759-set-intersection-size-at-least-two) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/marindave04/DSA/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/marindave04/DSA/tree/master/1262-greatest-sum-divisible-by-three) |
