@@ -219,6 +219,7 @@
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/marindave04/DSA/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3606-coupon-code-validator](https://github.com/marindave04/DSA/tree/master/3606-coupon-code-validator) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/marindave04/DSA/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
+| [3798-largest-even-number](https://github.com/marindave04/DSA/tree/master/3798-largest-even-number) |
 ## Sorting
 |  |
 | ------- |
