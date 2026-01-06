@@ -488,6 +488,7 @@
 |  |
 | ------- |
 | [0079-word-search](https://github.com/marindave04/DSA/tree/master/0079-word-search) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/marindave04/DSA/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1428-jump-game-iii](https://github.com/marindave04/DSA/tree/master/1428-jump-game-iii) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/marindave04/DSA/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2092-find-all-people-with-secret](https://github.com/marindave04/DSA/tree/master/2092-find-all-people-with-secret) |
@@ -496,6 +497,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/marindave04/DSA/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1428-jump-game-iii](https://github.com/marindave04/DSA/tree/master/1428-jump-game-iii) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/marindave04/DSA/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2092-find-all-people-with-secret](https://github.com/marindave04/DSA/tree/master/2092-find-all-people-with-secret) |
@@ -518,6 +520,7 @@
 ## Tree
 |  |
 | ------- |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/marindave04/DSA/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/marindave04/DSA/tree/master/2872-maximum-number-of-k-divisible-components) |
 ## Geometry
 |  |
@@ -532,4 +535,8 @@
 |  |
 | ------- |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/marindave04/DSA/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
+## Binary Tree
+|  |
+| ------- |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/marindave04/DSA/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 <!---LeetCode Topics End-->
