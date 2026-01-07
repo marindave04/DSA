@@ -483,6 +483,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/marindave04/DSA/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/marindave04/DSA/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Heap (Priority Queue)
 |  |
