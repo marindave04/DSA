@@ -364,6 +364,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/marindave04/DSA/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/marindave04/DSA/tree/master/0050-powx-n) |
 | [0795-k-th-symbol-in-grammar](https://github.com/marindave04/DSA/tree/master/0795-k-th-symbol-in-grammar) |
 | [1013-fibonacci-number](https://github.com/marindave04/DSA/tree/master/1013-fibonacci-number) |
@@ -483,6 +484,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/marindave04/DSA/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/marindave04/DSA/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/marindave04/DSA/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Heap (Priority Queue)
