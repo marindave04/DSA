@@ -105,6 +105,7 @@
 | [3766-minimum-operations-to-make-binary-palindrome](https://github.com/marindave04/DSA/tree/master/3766-minimum-operations-to-make-binary-palindrome) |
 | [3770-largest-prime-from-consecutive-prime-sum](https://github.com/marindave04/DSA/tree/master/3770-largest-prime-from-consecutive-prime-sum) |
 | [3795-minimum-subarray-length-with-distinct-sum-at-least-k](https://github.com/marindave04/DSA/tree/master/3795-minimum-subarray-length-with-distinct-sum-at-least-k) |
+| [3799-word-squares-ii](https://github.com/marindave04/DSA/tree/master/3799-word-squares-ii) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/marindave04/DSA/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [3863-power-grid-maintenance](https://github.com/marindave04/DSA/tree/master/3863-power-grid-maintenance) |
 ## Bit Manipulation
@@ -220,6 +221,7 @@
 | [3606-coupon-code-validator](https://github.com/marindave04/DSA/tree/master/3606-coupon-code-validator) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/marindave04/DSA/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3798-largest-even-number](https://github.com/marindave04/DSA/tree/master/3798-largest-even-number) |
+| [3799-word-squares-ii](https://github.com/marindave04/DSA/tree/master/3799-word-squares-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -248,6 +250,7 @@
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/marindave04/DSA/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/marindave04/DSA/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3752-lexicographically-smallest-negated-permutation-that-sums-to-target](https://github.com/marindave04/DSA/tree/master/3752-lexicographically-smallest-negated-permutation-that-sums-to-target) |
+| [3799-word-squares-ii](https://github.com/marindave04/DSA/tree/master/3799-word-squares-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -432,6 +435,7 @@
 | [0756-pyramid-transition-matrix](https://github.com/marindave04/DSA/tree/master/0756-pyramid-transition-matrix) |
 | [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/marindave04/DSA/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/marindave04/DSA/tree/master/2174-next-greater-numerically-balanced-number) |
+| [3799-word-squares-ii](https://github.com/marindave04/DSA/tree/master/3799-word-squares-ii) |
 ## Counting
 |  |
 | ------- |
@@ -444,6 +448,7 @@
 | [1925-count-square-sum-triples](https://github.com/marindave04/DSA/tree/master/1925-count-square-sum-triples) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/marindave04/DSA/tree/master/2174-next-greater-numerically-balanced-number) |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/marindave04/DSA/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
+| [3799-word-squares-ii](https://github.com/marindave04/DSA/tree/master/3799-word-squares-ii) |
 ## Design
 |  |
 | ------- |
