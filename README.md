@@ -167,6 +167,7 @@
 | [0001-two-sum](https://github.com/marindave04/DSA/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/marindave04/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/marindave04/DSA/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/marindave04/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0242-valid-anagram](https://github.com/marindave04/DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/marindave04/DSA/tree/master/0268-missing-number) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/marindave04/DSA/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
@@ -272,6 +273,7 @@
 | [0075-sort-colors](https://github.com/marindave04/DSA/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/marindave04/DSA/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/marindave04/DSA/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/marindave04/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0189-rotate-array](https://github.com/marindave04/DSA/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/marindave04/DSA/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/marindave04/DSA/tree/master/0344-reverse-string) |
@@ -510,6 +512,7 @@
 | [0021-merge-two-sorted-lists](https://github.com/marindave04/DSA/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/marindave04/DSA/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/marindave04/DSA/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/marindave04/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0237-delete-node-in-a-linked-list](https://github.com/marindave04/DSA/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/marindave04/DSA/tree/master/0328-odd-even-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/marindave04/DSA/tree/master/0876-middle-of-the-linked-list) |
