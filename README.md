@@ -143,6 +143,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/marindave04/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0474-ones-and-zeroes](https://github.com/marindave04/DSA/tree/master/0474-ones-and-zeroes) |
 | [0646-maximum-length-of-pair-chain](https://github.com/marindave04/DSA/tree/master/0646-maximum-length-of-pair-chain) |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/marindave04/DSA/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/marindave04/DSA/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1013-fibonacci-number](https://github.com/marindave04/DSA/tree/master/1013-fibonacci-number) |
 | [1048-longest-string-chain](https://github.com/marindave04/DSA/tree/master/1048-longest-string-chain) |
@@ -206,6 +207,7 @@
 | [0344-reverse-string](https://github.com/marindave04/DSA/tree/master/0344-reverse-string) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/marindave04/DSA/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0474-ones-and-zeroes](https://github.com/marindave04/DSA/tree/master/0474-ones-and-zeroes) |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/marindave04/DSA/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0756-pyramid-transition-matrix](https://github.com/marindave04/DSA/tree/master/0756-pyramid-transition-matrix) |
 | [0944-delete-columns-to-make-sorted](https://github.com/marindave04/DSA/tree/master/0944-delete-columns-to-make-sorted) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/marindave04/DSA/tree/master/0955-delete-columns-to-make-sorted-ii) |
