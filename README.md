@@ -336,6 +336,7 @@
 | [0070-climbing-stairs](https://github.com/marindave04/DSA/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/marindave04/DSA/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/marindave04/DSA/tree/master/0268-missing-number) |
+| [0382-linked-list-random-node](https://github.com/marindave04/DSA/tree/master/0382-linked-list-random-node) |
 | [0795-k-th-symbol-in-grammar](https://github.com/marindave04/DSA/tree/master/0795-k-th-symbol-in-grammar) |
 | [0840-magic-squares-in-grid](https://github.com/marindave04/DSA/tree/master/0840-magic-squares-in-grid) |
 | [1013-fibonacci-number](https://github.com/marindave04/DSA/tree/master/1013-fibonacci-number) |
@@ -525,6 +526,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/marindave04/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0237-delete-node-in-a-linked-list](https://github.com/marindave04/DSA/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/marindave04/DSA/tree/master/0328-odd-even-linked-list) |
+| [0382-linked-list-random-node](https://github.com/marindave04/DSA/tree/master/0382-linked-list-random-node) |
 | [0876-middle-of-the-linked-list](https://github.com/marindave04/DSA/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/marindave04/DSA/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/marindave04/DSA/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -595,4 +597,12 @@
 | ------- |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/marindave04/DSA/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/marindave04/DSA/tree/master/1339-maximum-product-of-splitted-binary-tree) |
+## Reservoir Sampling
+|  |
+| ------- |
+| [0382-linked-list-random-node](https://github.com/marindave04/DSA/tree/master/0382-linked-list-random-node) |
+## Randomized
+|  |
+| ------- |
+| [0382-linked-list-random-node](https://github.com/marindave04/DSA/tree/master/0382-linked-list-random-node) |
 <!---LeetCode Topics End-->
