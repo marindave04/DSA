@@ -393,6 +393,7 @@
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/marindave04/DSA/tree/master/0021-merge-two-sorted-lists) |
+| [0024-swap-nodes-in-pairs](https://github.com/marindave04/DSA/tree/master/0024-swap-nodes-in-pairs) |
 | [0050-powx-n](https://github.com/marindave04/DSA/tree/master/0050-powx-n) |
 | [0795-k-th-symbol-in-grammar](https://github.com/marindave04/DSA/tree/master/0795-k-th-symbol-in-grammar) |
 | [1013-fibonacci-number](https://github.com/marindave04/DSA/tree/master/1013-fibonacci-number) |
@@ -521,6 +522,7 @@
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/marindave04/DSA/tree/master/0021-merge-two-sorted-lists) |
+| [0024-swap-nodes-in-pairs](https://github.com/marindave04/DSA/tree/master/0024-swap-nodes-in-pairs) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/marindave04/DSA/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/marindave04/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/marindave04/DSA/tree/master/0142-linked-list-cycle-ii) |
