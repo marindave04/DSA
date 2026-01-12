@@ -9,19 +9,25 @@
  * }
  */
 class Solution {
-    ArrayList<Integer> list=new ArrayList<>();
+    ListNode HEAD;
     public Solution(ListNode head) {
-        ListNode temp=head;
-        while(temp!=null){
-            list.add(temp.val);
-            temp=temp.next;
-        }
+        HEAD=head;
+        
     }
     
     public int getRandom() {
-        int n=list.size();
-        int idx=(int) (Math.random() * n)%n;
-        return list.get(idx);
+        int count=1;
+        int result=0;
+        ListNode temp=HEAD;
+
+        while(temp!=null){
+            if(Math.random()<1.0/count){
+                result=temp.val;
+            }
+            count++;
+            temp=temp.next;
+        }
+        return result;
     }
 }
 
