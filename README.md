@@ -23,6 +23,7 @@
 | [0090-subsets-ii](https://github.com/marindave04/DSA/tree/master/0090-subsets-ii) |
 | [0118-pascals-triangle](https://github.com/marindave04/DSA/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/marindave04/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0135-candy](https://github.com/marindave04/DSA/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/marindave04/DSA/tree/master/0136-single-number) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/marindave04/DSA/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0189-rotate-array](https://github.com/marindave04/DSA/tree/master/0189-rotate-array) |
@@ -381,6 +382,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0135-candy](https://github.com/marindave04/DSA/tree/master/0135-candy) |
 | [0646-maximum-length-of-pair-chain](https://github.com/marindave04/DSA/tree/master/0646-maximum-length-of-pair-chain) |
 | [0759-set-intersection-size-at-least-two](https://github.com/marindave04/DSA/tree/master/0759-set-intersection-size-at-least-two) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/marindave04/DSA/tree/master/0955-delete-columns-to-make-sorted-ii) |
