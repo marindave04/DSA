@@ -117,6 +117,7 @@
 | [3795-minimum-subarray-length-with-distinct-sum-at-least-k](https://github.com/marindave04/DSA/tree/master/3795-minimum-subarray-length-with-distinct-sum-at-least-k) |
 | [3796-find-maximum-value-in-a-constrained-sequence](https://github.com/marindave04/DSA/tree/master/3796-find-maximum-value-in-a-constrained-sequence) |
 | [3799-word-squares-ii](https://github.com/marindave04/DSA/tree/master/3799-word-squares-ii) |
+| [3805-count-caesar-cipher-pairs](https://github.com/marindave04/DSA/tree/master/3805-count-caesar-cipher-pairs) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/marindave04/DSA/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [3863-power-grid-maintenance](https://github.com/marindave04/DSA/tree/master/3863-power-grid-maintenance) |
 ## Bit Manipulation
@@ -208,6 +209,7 @@
 | [3623-count-number-of-trapezoids-i](https://github.com/marindave04/DSA/tree/master/3623-count-number-of-trapezoids-i) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/marindave04/DSA/tree/master/3625-count-number-of-trapezoids-ii) |
 | [3795-minimum-subarray-length-with-distinct-sum-at-least-k](https://github.com/marindave04/DSA/tree/master/3795-minimum-subarray-length-with-distinct-sum-at-least-k) |
+| [3805-count-caesar-cipher-pairs](https://github.com/marindave04/DSA/tree/master/3805-count-caesar-cipher-pairs) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/marindave04/DSA/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [3863-power-grid-maintenance](https://github.com/marindave04/DSA/tree/master/3863-power-grid-maintenance) |
 ## String
@@ -245,6 +247,7 @@
 | [3798-largest-even-number](https://github.com/marindave04/DSA/tree/master/3798-largest-even-number) |
 | [3799-word-squares-ii](https://github.com/marindave04/DSA/tree/master/3799-word-squares-ii) |
 | [3800-minimum-cost-to-make-two-binary-strings-equal](https://github.com/marindave04/DSA/tree/master/3800-minimum-cost-to-make-two-binary-strings-equal) |
+| [3805-count-caesar-cipher-pairs](https://github.com/marindave04/DSA/tree/master/3805-count-caesar-cipher-pairs) |
 ## Sorting
 |  |
 | ------- |
@@ -381,6 +384,7 @@
 | [3752-lexicographically-smallest-negated-permutation-that-sums-to-target](https://github.com/marindave04/DSA/tree/master/3752-lexicographically-smallest-negated-permutation-that-sums-to-target) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/marindave04/DSA/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3770-largest-prime-from-consecutive-prime-sum](https://github.com/marindave04/DSA/tree/master/3770-largest-prime-from-consecutive-prime-sum) |
+| [3805-count-caesar-cipher-pairs](https://github.com/marindave04/DSA/tree/master/3805-count-caesar-cipher-pairs) |
 ## Greedy
 |  |
 | ------- |
@@ -483,6 +487,7 @@
 | [2174-next-greater-numerically-balanced-number](https://github.com/marindave04/DSA/tree/master/2174-next-greater-numerically-balanced-number) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/marindave04/DSA/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3583-count-special-triplets](https://github.com/marindave04/DSA/tree/master/3583-count-special-triplets) |
+| [3805-count-caesar-cipher-pairs](https://github.com/marindave04/DSA/tree/master/3805-count-caesar-cipher-pairs) |
 ## Enumeration
 |  |
 | ------- |
