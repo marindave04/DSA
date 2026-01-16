@@ -224,6 +224,7 @@
 | [0125-valid-palindrome](https://github.com/marindave04/DSA/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/marindave04/DSA/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/marindave04/DSA/tree/master/0344-reverse-string) |
+| [0394-decode-string](https://github.com/marindave04/DSA/tree/master/0394-decode-string) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/marindave04/DSA/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0474-ones-and-zeroes](https://github.com/marindave04/DSA/tree/master/0474-ones-and-zeroes) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/marindave04/DSA/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
@@ -418,6 +419,7 @@
 | [0021-merge-two-sorted-lists](https://github.com/marindave04/DSA/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/marindave04/DSA/tree/master/0024-swap-nodes-in-pairs) |
 | [0050-powx-n](https://github.com/marindave04/DSA/tree/master/0050-powx-n) |
+| [0394-decode-string](https://github.com/marindave04/DSA/tree/master/0394-decode-string) |
 | [0795-k-th-symbol-in-grammar](https://github.com/marindave04/DSA/tree/master/0795-k-th-symbol-in-grammar) |
 | [1013-fibonacci-number](https://github.com/marindave04/DSA/tree/master/1013-fibonacci-number) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/marindave04/DSA/tree/master/1667-find-kth-bit-in-nth-binary-string) |
@@ -524,6 +526,7 @@
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/marindave04/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/marindave04/DSA/tree/master/0085-maximal-rectangle) |
+| [0394-decode-string](https://github.com/marindave04/DSA/tree/master/0394-decode-string) |
 | [0496-next-greater-element-i](https://github.com/marindave04/DSA/tree/master/0496-next-greater-element-i) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/marindave04/DSA/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [2211-count-collisions-on-a-road](https://github.com/marindave04/DSA/tree/master/2211-count-collisions-on-a-road) |
