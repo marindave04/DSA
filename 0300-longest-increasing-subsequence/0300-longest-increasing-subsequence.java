@@ -1,27 +1,35 @@
 class Solution {
-    static int[][] t=new int[2501][2501]; 
-    public int lengthOfLIS(int[] nums) {
-        for(int i=0;i<2501;i++){
-            for(int j=0;j<2501;j++){
-                t[i][j]=-2;
+   public int lengthOfLIS(int[] nums) {
+    //pateince sorting
+    int n=nums.length;
+   
+    ArrayList<Integer> list=new ArrayList<>();
+     for(int i=0;i<n;i++){
+        //ab humko lower bound find krna hain kyu ki sorted list me jo smaller element aayega usko uski jgh rkhengeaur whi hmara lis bna dega
+        int index=lowerBound(list,nums[i]);
+        if(index==list.size()){
+            list.add(nums[i]);
+        }else {
+            // replace 
+            list.set(index,nums[i]);
+        }
+     }
+     return list.size();
+    }
+    static int lowerBound( ArrayList<Integer> list,int x){
+        int target=x;
+        int s=0;
+        int e=list.size()-1;
+        int ans=list.size();
+        while(s<=e){
+            int mid=s+(e-s)/2;
+            if(target<=list.get(mid)){
+                 ans=mid;
+                 e=mid-1;
+            }else{
+                s=mid+1;
             }
         }
-        return solve(nums,0,-1);
-    }
-    static int solve(int[]nums,int i,int p){
-        if(i>=nums.length) return 0;
-        if(p!=-1&&t[i][p]!=-2) return t[i][p];
-        int take=0;
-        
-        if(p==-1 || nums[i]>nums[p]){
-           
-            take=1+solve(nums,i+1,i);
-        }
-         
-        int skip=solve(nums,i+1,p);
-        if(p!=-1) {
-            return t[i][p]=Math.max(take,skip);
-        }
-        return Math.max(take,skip);
+        return ans;
     }
 }
