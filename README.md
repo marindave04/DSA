@@ -64,6 +64,7 @@
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/marindave04/DSA/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/marindave04/DSA/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1840-maximum-building-height](https://github.com/marindave04/DSA/tree/master/1840-maximum-building-height) |
+| [1895-largest-magic-square](https://github.com/marindave04/DSA/tree/master/1895-largest-magic-square) |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/marindave04/DSA/tree/master/1911-maximum-alternating-subsequence-sum) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/marindave04/DSA/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/marindave04/DSA/tree/master/1970-last-day-where-you-can-still-cross) |
@@ -462,6 +463,7 @@
 | [1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons](https://github.com/marindave04/DSA/tree/master/1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons) |
 | [1590-make-sum-divisible-by-p](https://github.com/marindave04/DSA/tree/master/1590-make-sum-divisible-by-p) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/marindave04/DSA/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [1895-largest-magic-square](https://github.com/marindave04/DSA/tree/master/1895-largest-magic-square) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/marindave04/DSA/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/marindave04/DSA/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/marindave04/DSA/tree/master/2618-maximize-the-minimum-powered-city) |
@@ -526,6 +528,7 @@
 | [0085-maximal-rectangle](https://github.com/marindave04/DSA/tree/master/0085-maximal-rectangle) |
 | [0840-magic-squares-in-grid](https://github.com/marindave04/DSA/tree/master/0840-magic-squares-in-grid) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/marindave04/DSA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1895-largest-magic-square](https://github.com/marindave04/DSA/tree/master/1895-largest-magic-square) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/marindave04/DSA/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1975-maximum-matrix-sum](https://github.com/marindave04/DSA/tree/master/1975-maximum-matrix-sum) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/marindave04/DSA/tree/master/2244-number-of-laser-beams-in-a-bank) |
