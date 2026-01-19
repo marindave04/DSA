@@ -2,25 +2,31 @@ class Solution {
     public int maxSideLength(int[][] mat, int threshold) {
         int m=mat.length;
         int n=mat[0].length;
-        int[][] rowPrefixSum=new int[m][n];
+        int[][] prefix=new int[m][n];
         for(int i=0;i<m;i++){
-            rowPrefixSum[i][0]=mat[i][0];
-            for(int j=1;j<n;j++){
-                rowPrefixSum[i][j]=rowPrefixSum[i][j-1]+mat[i][j];
+            for(int j=0;j<n;j++){
+                prefix[i][j]= (i>0?prefix[i-1][j]:0)+(j>0?prefix[i][j-1]:0)-((i>0 && j>0)?prefix[i-1][j-1]:0)+mat[i][j];
             }
         }
-        for(int side=Math.min(m,n);side>=1;side--){
-            for(int i=0;i+side-1<m;i++){
-               
-                for(int j=0;j+side-1<n;j++){
-                     int sum=0;
-                    for(int k=i;k<i+side;k++){
-                          sum+=rowPrefixSum[k][j+side-1]-(j>0?rowPrefixSum[k][j-1]:0);
+        int max=0;
+        for(int i=0;i<m;i++){
+            for(int j=0;j<n;j++){
+                for(int k=0;k<=Math.min(m-i,n-j)-1;k++){
+                    int r2=i+k;
+                    int c2=j+k;
+                    int sum=find(i,j,r2,c2,prefix);
+                    if(sum<=threshold){
+                        max=Math.max(max,k+1);
+                    }else {
+                        break;
                     }
-                    if(sum<=threshold) return side;
                 }
             }
         }
-        return 0;
+        return max;
+    }
+    static int find(int i,int j,int r2,int c2,int[][] prefix){
+        int sum= prefix[r2][c2]-(j>0?prefix[r2][j-1]:0)-(i>0?prefix[i-1][c2]:0)+((i>0 && j>0)?prefix[i-1][j-1]:0);
+        return sum;
     }
 }
