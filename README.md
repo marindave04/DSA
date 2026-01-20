@@ -172,6 +172,7 @@
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/marindave04/DSA/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1013-fibonacci-number](https://github.com/marindave04/DSA/tree/master/1013-fibonacci-number) |
 | [1048-longest-string-chain](https://github.com/marindave04/DSA/tree/master/1048-longest-string-chain) |
+| [1143-longest-common-subsequence](https://github.com/marindave04/DSA/tree/master/1143-longest-common-subsequence) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/marindave04/DSA/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/marindave04/DSA/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons](https://github.com/marindave04/DSA/tree/master/1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons) |
@@ -245,6 +246,7 @@
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/marindave04/DSA/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/marindave04/DSA/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1048-longest-string-chain](https://github.com/marindave04/DSA/tree/master/1048-longest-string-chain) |
+| [1143-longest-common-subsequence](https://github.com/marindave04/DSA/tree/master/1143-longest-common-subsequence) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/marindave04/DSA/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/marindave04/DSA/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/marindave04/DSA/tree/master/1636-number-of-substrings-with-only-1s) |
