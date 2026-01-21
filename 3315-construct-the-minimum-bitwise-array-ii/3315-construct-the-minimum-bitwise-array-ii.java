@@ -7,7 +7,7 @@ class Solution {
                 ans[i]=-1;
                 continue;
             }
-            for(int j=0;j<32;j++){
+            for(int j=0;j<31;j++){
                 if((nums.get(i) & (1<<j))>0){
                     continue;
                 }
