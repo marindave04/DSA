@@ -386,6 +386,7 @@
 | [1817-calculate-money-in-leetcode-bank](https://github.com/marindave04/DSA/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/marindave04/DSA/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1840-maximum-building-height](https://github.com/marindave04/DSA/tree/master/1840-maximum-building-height) |
+| [1922-count-good-numbers](https://github.com/marindave04/DSA/tree/master/1922-count-good-numbers) |
 | [1925-count-square-sum-triples](https://github.com/marindave04/DSA/tree/master/1925-count-square-sum-triples) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/marindave04/DSA/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2050-count-good-numbers](https://github.com/marindave04/DSA/tree/master/2050-count-good-numbers) |
@@ -443,6 +444,7 @@
 | [1013-fibonacci-number](https://github.com/marindave04/DSA/tree/master/1013-fibonacci-number) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/marindave04/DSA/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/marindave04/DSA/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [1922-count-good-numbers](https://github.com/marindave04/DSA/tree/master/1922-count-good-numbers) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/marindave04/DSA/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2050-count-good-numbers](https://github.com/marindave04/DSA/tree/master/2050-count-good-numbers) |
 ## Memoization
