@@ -232,6 +232,7 @@
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/marindave04/DSA/tree/master/0008-string-to-integer-atoi) |
+| [0020-valid-parentheses](https://github.com/marindave04/DSA/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/marindave04/DSA/tree/master/0022-generate-parentheses) |
 | [0079-word-search](https://github.com/marindave04/DSA/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/marindave04/DSA/tree/master/0125-valid-palindrome) |
@@ -551,6 +552,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/marindave04/DSA/tree/master/0020-valid-parentheses) |
 | [0084-largest-rectangle-in-histogram](https://github.com/marindave04/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/marindave04/DSA/tree/master/0085-maximal-rectangle) |
 | [0394-decode-string](https://github.com/marindave04/DSA/tree/master/0394-decode-string) |
