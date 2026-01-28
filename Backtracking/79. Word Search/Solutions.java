@@ -1,3 +1,4 @@
+https://leetcode.com/problems/word-search/
 class Solution {
     static int[][] dir={{0,1},{0,-1},{1,0},{-1,0}};
     public boolean exist(char[][] board, String word) {
