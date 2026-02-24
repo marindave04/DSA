@@ -1,0 +1,18 @@
+// User function Template for Java
+class Solution {
+    public List<List<Integer>> printGraph(int V, int edges[][]) {
+         List<List<Integer>> adj=new ArrayList<>();
+         // v nodes create krenge
+         for(int i=0;i<V;i++){
+             adj.add(new ArrayList<>());
+         }
+         //ab edge add krenge list me
+         for(int[] edge:edges){
+             int u=edge[0];
+             int v=edge[1];
+             adj.get(u).add(v);
+             adj.get(v).add(u);
+         }
+         return adj;
+    }
+}
