@@ -99,3 +99,39 @@ class Solution {
         return max;
     }
 }
+// Approach – 3
+
+// Approach:
+// Convert the condition into a running prefix sum by treating elements > k as +1 and <= k as -1. While iterating, maintain psum and use a HashMap to store the first occurrence of each prefix sum. If psum > 0, the subarray from 0 → i is valid; otherwise, check if (psum - 1) exists to find a longer valid subarray.
+
+// Concept Used:
+// Prefix Sum Transformation (1 / -1 trick) + HashMap for earliest prefix sum index tracking.
+
+// Time Complexity: O(n)
+// Space Complexity: O(n)**
+
+class Solution {
+    public int longestSubarray(int[] arr, int k) {
+        int n = arr.length;
+             
+        int max = 0;
+        HashMap<Integer, Integer> map = new HashMap<>();
+        int psum=0;
+        for (int i = 0; i < n; i++) {
+          if(arr[i]>k) psum++;
+          else psum--;
+           if(psum>0){
+               max=i+1;
+           }
+               if(map.containsKey(psum-1)){
+                   max=Math.max(max,i-map.get(psum-1));
+               }
+           
+           if(!map.containsKey(psum)){
+               map.put(psum,i);
+           }
+        }
+        
+        return max;
+    }
+}
