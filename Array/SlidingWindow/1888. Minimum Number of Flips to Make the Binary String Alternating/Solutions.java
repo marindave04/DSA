@@ -81,3 +81,39 @@ class Solution {
        return res;
     }
 }
+//APPROACH-3
+class Solution {
+    public int minFlips(String s) {
+       int n=s.length();
+     
+       int i=0;
+       int j=0;
+       int res=Integer.MAX_VALUE;
+       int f1=0;
+       int f2=0;
+       while(j<2*n){
+          if((j-i+1)<=n){
+            if(j%2==0){
+                if(s.charAt(j%n)!='0') f1++;
+                if(s.charAt(j%n)!='1') f2++;
+            }else{
+                   if(s.charAt(j%n)!='1') f1++;
+                   if(s.charAt(j%n)!='0') f2++;
+            }
+            
+            j++;
+          }else{
+            res=Math.min(res,Math.min(f1,f2));
+            if(i%2==0){
+                if(s.charAt(i%n)!='0') f1--;
+                if(s.charAt(i%n)!='1') f2--;
+            }else{
+                if(s.charAt(i%n)!='1') f1--;
+                 if(s.charAt(i%n)!='0') f2--;
+            }
+            i++;
+          }
+       }
+       return res;
+    }
+}
