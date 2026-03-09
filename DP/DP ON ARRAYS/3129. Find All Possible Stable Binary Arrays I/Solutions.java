@@ -33,3 +33,36 @@ class Solution {
         return t[zero][one][lastOne]=res ;
     }
 }
+/*
+| Approach                      | Time Complexity           | Space Complexity  |
+| ----------------------------- | ------------------------- | ----------------- |
+| **Bottom-Up DP (Tabulation)** | **O(one × zero × limit)** | **O(one × zero)** |
+
+*/
+class Solution {
+    static int mod=1000000007;
+    
+    public int numberOfStableArrays(int zero, int one, int limit) {
+     int[][][] t=new int[one+1][zero+1][2];
+     t[0][0][1]=1;
+     t[0][0][0]=1;
+     for(int i=0;i<=one;i++){
+        for(int j=0;j<=zero;j++){
+            if(i==0 && j==0) continue;
+            int res=0;
+            for(int l=1;l<=Math.min(j,limit);l++){
+                res=(res+t[i][j-l][0])%mod;
+            }
+            t[i][j][1]=res;
+            res=0;
+            for(int l=1;l<=Math.min(i,limit);l++){
+                res=(res+t[i-l][j][1])%mod;
+            }
+            t[i][j][0]=res;
+        }
+     }
+     int s0=t[one][zero][1];
+     int s1=t[one][zero][0];
+     return (s0+s1)%mod;
+    }
+}
