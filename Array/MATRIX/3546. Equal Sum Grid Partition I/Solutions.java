@@ -48,3 +48,44 @@ class Solution {
         return false;
     }
 }
+/*
+| Approach                                                       | Time Complexity | Space Complexity               |
+| -------------------------------------------------------------- | --------------- | ------------------------------ |
+| **Row-wise Prefix Sum Check + Transpose for column partition** | **O(m · n)**    | **O(n · m)** *(for transpose)* |
+
+*/
+class Solution {
+    static long total;
+    public boolean canPartitionGrid(int[][] grid) {
+        total=0;
+        int m=grid.length;
+        int n=grid[0].length;
+        for(int i=0;i<m;i++){
+            for(int j=0;j<n;j++){
+                total=(long)total+grid[i][j];
+            }
+        }
+      if(h(grid)) return true;
+      int[][] transpose=new int[n][m];
+      for(int i=0;i<m;i++){
+            for(int j=0;j<n;j++){
+               transpose[j][i]=grid[i][j];
+            }
+        }
+        if(h(transpose)) return true;
+        return false;
+    }
+    static boolean h(int[][] grid){
+        int m=grid.length;
+        int n=grid[0].length;
+        long top=0;
+        for(int i=0;i<m-1;i++){
+            for(int j=0;j<n;j++){
+                top=(long)top+grid[i][j];
+            }
+            long bottom=(long) total -top;
+            if(top==bottom) return true;
+        }
+        return false;
+    }
+}
