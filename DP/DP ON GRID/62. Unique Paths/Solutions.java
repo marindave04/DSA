@@ -21,3 +21,29 @@ class Solution {
         return t[i][j]=right+down;
     }
 }
+/*
+| Approach                      | Time Complexity | Space Complexity |
+| ----------------------------- | --------------- | ---------------- |
+| **Bottom-Up DP (Tabulation)** | **O(m × n)**    | **O(m × n)**     |
+
+*/
+class Solution {
+ 
+    public int uniquePaths(int m, int n) {
+      
+      int[][] t=new int[m][n];
+      t[0][0]=1;
+      for(int col=1;col<n;col++){
+        t[0][col]=1;
+      }
+      for(int row=1;row<m;row++){
+        t[row][0]=1;
+      }
+      for(int i=1;i<m;i++){
+        for(int j=1;j<n;j++){
+            t[i][j]=t[i-1][j]+t[i][j-1];
+        }
+      }
+      return t[m-1][n-1];
+    }
+}
