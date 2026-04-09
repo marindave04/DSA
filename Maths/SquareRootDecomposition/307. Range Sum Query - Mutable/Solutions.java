@@ -1,4 +1,7 @@
 /*
+| Approach                                  | Time Complexity                             | Space Complexity |
+| ----------------------------------------- | ------------------------------------------- | ---------------- |
+| **Square Root Decomposition (Range Sum)** | **Update: O(1), Query: O(√n), Build: O(n)** | **O(n)**         |
 
 */
 class NumArray {
