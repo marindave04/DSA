@@ -40,3 +40,41 @@ class Solution {
          return t[i][j];
     }
 }
+/*
+| Approach                                      | Time Complexity | Space Complexity |
+| --------------------------------------------- | --------------- | ---------------- |
+| **BOTTOM-UP (Store max & min product at each cell)** | **O(m × n)**    | **O(m × n)**     |
+
+*/
+class Solution {
+    static int mod=1000000007;
+    public int maxProductPath(int[][] grid) {
+          int m=grid.length;
+          int n=grid[0].length;
+          Pair<Long,Long>[][] t=new Pair[m][n];
+          t[0][0]=new Pair<>((long)grid[0][0],(long)grid[0][0]);
+          for(int col=1;col<n;col++){
+            t[0][col]=new Pair<>((long)grid[0][col]*t[0][col-1].getKey(),(long)grid[0][col]*t[0][col-1].getValue());
+          }
+          for(int row=1;row<m;row++){
+            t[row][0]=new Pair<>((long)grid[row][0]*t[row-1][0].getKey(),(long)grid[row][0]*t[row-1][0].getValue());
+          }
+          for(int i=1;i<m;i++){
+            for(int j=1;j<n;j++){
+                long max=Long.MIN_VALUE;
+                long min=Long.MAX_VALUE;
+                long upmax=t[i-1][j].getKey();
+                long leftmax=t[i][j-1].getKey();
+                long upmin=t[i-1][j].getValue();
+                long leftmin=t[i][j-1].getValue();
+                 max=Math.max(max,Math.max(upmax*grid[i][j],upmin*grid[i][j]));
+                 max=Math.max(max,Math.max(leftmax*grid[i][j],leftmin*grid[i][j]));
+                 min=Math.min(min,Math.min(upmax*grid[i][j],upmin*grid[i][j]));
+                 min=Math.min(min,Math.min(leftmax*grid[i][j],leftmin*grid[i][j]));
+                 t[i][j]=new Pair<>(max,min);
+            }
+          }
+          if(t[m-1][n-1].getKey()<0) return -1;
+          return (int)((t[m-1][n-1].getKey())%mod);
+    }
+}
