@@ -75,3 +75,62 @@ class Solution {
         return t[i][j][power]=Math.max(right,down);
     }
 }
+/*
+| Approach                                                        | Time Complexity  | Space Complexity |
+| --------------------------------------------------------------- | ---------------- | ---------------- |
+| **Bottom-Up 3D DP (Tabulation with Power State for Negatives)** | **O(m × n × 3)** | **O(m × n × 3)** |
+
+*/
+//Wrirting Bottom-up in reverse 
+class Solution {
+    public int maximumAmount(int[][] grid) {
+       int m=grid.length;
+       int n=grid[0].length;   
+       int[][][] t=new int[m][n][3];
+       //filling last cell means the base case of recursion+memoization
+       for(int power=0;power<=2;power++){
+        if(grid[m-1][n-1]>=0){
+            t[m-1][n-1][power]=grid[m-1][n-1];
+        }else{
+            if(power>0) t[m-1][n-1][power]=0;
+            else t[m-1][n-1][power]=grid[m-1][n-1];
+        }
+       }
+       //filling the remaining celss as we go from right bottom cell to left top cell
+       for(int i=m-1;i>=0;i--){
+        for(int j=n-1;j>=0;j--){
+            if(i==m-1 && j==n-1) continue;//bacause it is last cell
+            for(int power=0;power<=2;power++){
+                int right=Integer.MIN_VALUE;
+                int down=Integer.MIN_VALUE;
+                //going right
+                if(j+1<n){
+                    if(grid[i][j]>=0){
+                         right=grid[i][j]+t[i][j+1][power];
+                    }else{
+                        if(power>0){
+                            right=Math.max(t[i][j+1][power-1],grid[i][j]+t[i][j+1][power]);
+                        }else{
+                             right=grid[i][j]+t[i][j+1][power];
+                        }
+                    }
+                }
+                //going down
+                 if(i+1<m){
+                    if(grid[i][j]>=0){
+                         down=grid[i][j]+t[i+1][j][power];
+                    }else{
+                        if(power>0){
+                            down=Math.max(t[i+1][j][power-1],grid[i][j]+t[i+1][j][power]);
+                        }else{
+                             down=grid[i][j]+t[i+1][j][power];
+                        }
+                    }
+                }
+                t[i][j][power]=Math.max(right,down);
+            }
+        }
+       }
+       return t[0][0][2];
+    }
+}
