@@ -53,3 +53,51 @@ class Solution {
         return root;
     }
 }
+/*
+| Approach                                     | Time Complexity | Space Complexity |
+| -------------------------------------------- | --------------- | ---------------- |
+| **HashMap (Node Mapping) + Set (Find Root)** | **O(n)**        | **O(n)**         |
+
+*/
+/**
+ * Definition for a binary tree node.
+ * public class TreeNode {
+ *     int val;
+ *     TreeNode left;
+ *     TreeNode right;
+ *     TreeNode() {}
+ *     TreeNode(int val) { this.val = val; }
+ *     TreeNode(int val, TreeNode left, TreeNode right) {
+ *         this.val = val;
+ *         this.left = left;
+ *         this.right = right;
+ *     }
+ * }
+ */
+class Solution {
+    public TreeNode createBinaryTree(int[][] d) {
+        HashMap<Integer,TreeNode> nodeMap=new HashMap<>();
+        HashSet<Integer> children = new HashSet<>();
+        for(int[] row:d){
+            int parent=row[0];
+            int child=row[1];
+            int isLeft=row[2];
+            if(!nodeMap.containsKey(parent)){
+                nodeMap.put(parent,new TreeNode(parent));
+            }
+            if(!nodeMap.containsKey(child)){
+                nodeMap.put(child,new TreeNode(child));
+            }
+            if(isLeft==1){
+                nodeMap.get(parent).left=nodeMap.get(child);
+            }else{
+                nodeMap.get(parent).right=nodeMap.get(child);
+            }
+            children.add(child);
+        }
+        for(TreeNode node:nodeMap.values()){
+            if(!children.contains(node.val)) return node;
+        }
+        return null;
+    }
+}
