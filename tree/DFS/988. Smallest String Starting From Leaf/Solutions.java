@@ -54,3 +54,29 @@ class Solution {
           return ans;
     }
 }
+/*
+| Approach                                                              | Time Complexity | Space Complexity |
+| --------------------------------------------------------------------- | --------------- | ---------------- |
+| **DFS (Build path using StringBuilder + compare left/right at leaf)** | **O(n * h)**    | **O(n * h)**     |
+
+*/
+class Solution {
+    public String smallestFromLeaf(TreeNode root) {
+     StringBuilder sb=solve(root,new StringBuilder());
+     return sb.toString();
+    }
+    StringBuilder solve(TreeNode root, StringBuilder sb){
+        if(root==null) return sb;
+        sb.append((char)(root.val+'a'));
+        if(root.left==null && root.right==null){
+            return sb.reverse();
+        }
+        StringBuilder left=root.left!=null ? solve(root.left,new StringBuilder(sb)) : null;
+        StringBuilder right=root.right!=null ? solve(root.right,new StringBuilder(sb)) : null;
+        if(left!=null && right!=null){
+            return left.compareTo(right)<=0 ? left : right;
+        }else{
+            return left!=null?left:right;
+        }
+    }
+}
