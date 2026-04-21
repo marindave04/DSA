@@ -95,3 +95,47 @@ class Solution {
         return prev;
     }
 }
+/*
+| Approach                                                                   | Time Complexity | Space Complexity |
+| -------------------------------------------------------------------------- | --------------- | ---------------- |
+| **Find middle (slow-fast), reverse second half, then compare both halves** | **O(n)**        | **O(1)**         |
+
+*/
+class Solution {
+    public boolean isPalindrome(ListNode head) {
+      if(head==null || head.next==null) return true;
+       ListNode slow=head;
+       ListNode fast=head;
+       ListNode p=null;
+       while(fast!=null && fast.next!=null){
+         p=slow;
+         slow=slow.next;
+         fast=fast.next.next;
+       }
+       ListNode temp=slow;
+       if(slow.next!=null){
+        temp=temp.next;
+       }
+       p.next=null;
+        ListNode prev=null;
+        ListNode pres=temp;
+        ListNode node=temp.next;
+        while(pres!=null){
+           pres.next=prev;
+           prev=pres;
+           pres=node;
+           if(node!=null) node=node.next;
+        }
+        ListNode l1=head;
+        ListNode l2=prev;
+        while(l1!=null && l2!=null){
+            if(l1.val!=l2.val) return false;
+            l1=l1.next;
+            l2=l2.next;
+        }
+        if(l1!=null){
+            if(l1.val!=slow.val) return false;
+        }
+        return true;
+    }
+}
