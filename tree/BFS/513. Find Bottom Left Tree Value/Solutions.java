@@ -44,3 +44,31 @@ class Solution {
         return ans;
     }
 }
+/*
+| Approach                                                                                    | Time Complexity | Space Complexity |
+| ------------------------------------------------------------------------------------------- | --------------- | ---------------- |
+| **Level order (BFS), push right first then left → last processed node becomes bottom-left** | **O(n)**        | **O(n)**         |
+
+*/
+class Solution {
+    public int findBottomLeftValue(TreeNode root) {
+        Queue<TreeNode> q=new LinkedList<>();
+        q.offer(root);
+        int ans=-1;
+        while(!q.isEmpty()){
+            int size=q.size();
+            for(int i=0;i<size;i++){
+               TreeNode curr=q.poll();
+               ans=curr.val;
+                if(curr.right!=null){
+                q.offer(curr.right);
+               }
+               if(curr.left!=null){
+                q.offer(curr.left);
+               }
+              
+            }
+        }
+        return ans;
+    }
+}
