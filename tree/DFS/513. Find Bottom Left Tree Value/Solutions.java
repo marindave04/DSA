@@ -45,3 +45,28 @@ class Solution {
         return Math.max(l,r)+1;
     }
 }
+/*
+| Approach                                                                                                 | Time Complexity | Space Complexity |
+| -------------------------------------------------------------------------------------------------------- | --------------- | ---------------- |
+| **Single DFS (preorder), track max depth → first node visited at each new depth (left-first) is answer** | **O(n)**        | **O(h)**         |
+
+*/
+class Solution {
+    static int max;
+    static int ans;
+    public int findBottomLeftValue(TreeNode root) {
+        max=-1;
+        ans=0;;
+        dfs(root,0);
+        return ans;
+    }
+    static void dfs(TreeNode root,int level){
+        if(root==null) return;
+        if(level>max){//we reached to new level
+            ans=root.val;
+            max=level;
+        }
+        dfs(root.left,level+1);
+        dfs(root.right,level+1);
+    }
+}
