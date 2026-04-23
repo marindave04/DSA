@@ -39,3 +39,31 @@ class Solution {
          return root;
     }
 }
+/*
+| Approach                                                                          | Time Complexity | Space Complexity |
+| --------------------------------------------------------------------------------- | --------------- | ---------------- |
+| Use preorder for root, hashmap for postorder index lookup, split tree and recurse | **O(n)**        | **O(n)**         |
+
+*/
+class Solution {
+    static HashMap<Integer,Integer> map;
+    public TreeNode constructFromPrePost(int[] preorder, int[] postorder) {
+        map=new HashMap<>();
+        for(int i=0;i<postorder.length;i++){
+            map.put(postorder[i],i);
+        }
+        int n=preorder.length;
+        return solve(0,0,n-1,preorder,postorder);
+    }
+    static TreeNode solve(int preStart,int postStart,int preEnd,int[] pre,int[] post){
+         if(preStart>preEnd) return null;
+         TreeNode root=new TreeNode(pre[preStart]);
+         if(preStart==preEnd) return root;
+         int nextNode=pre[preStart+1];
+         int j=map.get(nextNode);
+         int num=j-postStart+1;
+         root.left=solve(preStart+1,postStart,preStart+num,pre,post);
+         root.right=solve(preStart+num+1,j+1,preEnd,pre,post);
+         return root;
+    }
+}
