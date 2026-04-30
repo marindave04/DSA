@@ -97,3 +97,57 @@ class Solution {
         return root;
     }
 }
+/*
+| Approach                                                                                                                                   | Time Complexity | Space Complexity |
+| ------------------------------------------------------------------------------------------------------------------------------------------ | --------------- | ---------------- |
+| Recursively build tree using preorder for root creation (`idx`) and linearly search root in inorder to split left and right subtree ranges | **O(n²)**       | **O(n)**         |
+
+*/
+class Solution {
+    static int idx;
+    public TreeNode buildTree(int[] pre, int[] in) {
+      idx=0;
+      return solve(0,in.length-1,in,pre);
+    }
+    static TreeNode solve(int s,int e,int[] in,int[]pre){
+        if(idx>=pre.length) return null;
+        if(s>e) return null;
+        TreeNode root=new TreeNode(pre[idx++]);
+        if(s==e) return root;
+        int j=s;
+        while(in[j]!=root.val){
+            j++;
+        }
+        root.left=solve(s,j-1,in,pre);
+        root.right=solve(j+1,e,in,pre);
+        return root;
+    }
+}
+/*
+| Approach                                                                                                                           | Time Complexity | Space Complexity |
+| ---------------------------------------------------------------------------------------------------------------------------------- | --------------- | ---------------- |
+| Use preorder pointer for root creation, hashmap for O(1) inorder index lookup, recursively construct left and right subtree ranges | **O(n)**        | **O(n)**         |
+
+*/
+class Solution {
+    static int idx;
+    static HashMap<Integer,Integer> map;
+    public TreeNode buildTree(int[] pre, int[] in) {
+      idx=0;
+      map=new HashMap<>();
+      for(int i=0;i<in.length;i++){
+        map.put(in[i],i);
+      }
+      return solve(0,in.length-1,in,pre);
+    }
+    static TreeNode solve(int s,int e,int[] in,int[]pre){
+        if(idx>=pre.length) return null;
+        if(s>e) return null;
+        TreeNode root=new TreeNode(pre[idx++]);
+        if(s==e) return root;
+        int j=map.get(root.val);
+        root.left=solve(s,j-1,in,pre);
+        root.right=solve(j+1,e,in,pre);
+        return root;
+    }
+}
