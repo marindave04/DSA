@@ -40,3 +40,40 @@ class Solution {
         return root;
     }
 }
+/*
+| Approach                                                                                                                                                                      | Time Complexity | Space Complexity         |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------- | ------------------------ |
+| Recursively search node in BST; for node with two children replace value using maximum from left subtree (inorder predecessor), then recursively delete that predecessor node | **O(h)**        | **O(h)** recursive stack |
+
+*/
+class Solution {
+    public TreeNode deleteNode(TreeNode root, int key) {
+     if(root==null) return null;
+     if(key>root.val){
+         root.right=deleteNode(root.right,key);
+     }else if(key<root.val){
+         root.left=deleteNode(root.left,key);
+     }else{
+        if(root.left!=null && root.right!=null){
+            int v=findMax(root.left,Integer.MIN_VALUE);
+            root.val=v;
+            root.left= deleteNode(root.left,v);
+            return root;
+        }else if(root.left!=null){
+            return root.left;
+        }else if(root.right!=null){
+            return root.right;
+        }else{
+            return null;
+        }
+     }
+     return root;
+    }
+    static int findMax(TreeNode root,int max){
+        while(root!=null){
+            max=Math.max(max,root.val);
+            root=root.right;
+        }
+        return max;
+    }
+}
