@@ -39,3 +39,30 @@ class Solution {
          return left&&right;
     }
 }
+/*
+| Approach                                                                                                                                                              | Time Complexity                                                     | Space Complexity |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------- | ---------------- |
+| Serialize both trees using preorder traversal with null markers (`*`), then check whether serialized subtree string exists inside main tree string using `contains()` | **O(n + m)** average *(can degrade to O(n·m) for substring search)* | **O(n + m)**     |
+
+*/
+class Solution {
+    public boolean isSubTree(Node root1, Node root2) {
+        // code here
+        StringBuilder sb1=new StringBuilder();
+        StringBuilder sb2=new StringBuilder();
+        solve(root1,sb1);
+        solve(root2,sb2);
+        String s1=sb1.toString();
+        String s2=sb2.toString();
+        return s1.contains(s2);
+    }
+    static void solve(Node root, StringBuilder sb){
+        if(root==null){
+            sb.append('*');
+            return;
+        }
+        sb.append(root.data).append("");
+        solve(root.left,sb);
+        solve(root.right,sb);
+    }
+}
