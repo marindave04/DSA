@@ -66,3 +66,68 @@ class Solution {
         solve(root.right,sb);
     }
 }
+/*
+| Approach                                                                                                                                                                           | Time Complexity | Space Complexity |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------- | ---------------- |
+| Serialize both trees using preorder traversal with null markers, build LPS array for subtree serialization, then apply KMP pattern matching to check subtree existence efficiently | **O(n + m)**    | **O(n + m)**     |
+
+*/
+class Solution {
+    public boolean isSubTree(Node root1, Node root2) {
+        // code here
+        StringBuilder sb1=new StringBuilder();
+        StringBuilder sb2=new StringBuilder();
+        solve(root1,sb1);
+        solve(root2,sb2);
+        String s1=sb1.toString();
+        String s2=sb2.toString();
+        int[] lps=findLps(s2);
+        int n=s1.length();
+        int m=s2.length();
+        int i=0;
+        int j=0;
+        while(i<n){
+            if(s1.charAt(i)==s2.charAt(j)){
+                i++;
+                j++;
+                if(j>=m) return true;
+            }else if(j>0){
+                j=lps[j-1];
+            }else{
+                i++;
+            }
+        }
+        return false;
+    }
+    static int[] findLps(String pattern){
+        int n=pattern.length();
+        int[] lps=new int[n];
+        lps[0]=0;
+        int len=0;
+        int i=1;
+        while(i<n){
+            if(pattern.charAt(i)==pattern.charAt(len)){
+                len++;
+                lps[i]=len;
+                i++;
+            }else{
+                if(len!=0){
+                    len=lps[len-1];
+                }else{
+                    lps[i]=0;
+                    i++;
+                }
+            }
+        }
+        return lps;
+    }
+    static void solve(Node root, StringBuilder sb){
+        if(root==null){
+            sb.append('*');
+            return;
+        }
+        sb.append(root.data).append("");
+        solve(root.left,sb);
+        solve(root.right,sb);
+    }
+}
